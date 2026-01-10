@@ -1,0 +1,8 @@
+paths:
+  - file: Bike_Facilities_Existing_and_Programmed.cleaned.csv
+transformations:
+  - read_delimited:
+      delimiter: ','
+      encoding: 'utf-8'
+      header: all_files_same_headers
+      infer_column_types: true

@@ -1,0 +1,643 @@
+FID,objectid_1,objectid,facility_n,begin,end,facility_c,status,route_id,bpp_2005,local_plan,jurisdicti,st,note,miles,priority,yr_constr,i269,blvd,divided,fund_sourc,shape_leng,shape_le_1,Shape__Length
+1,1356,1477,Fields Rd,Sewanee,Hicky,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.871370130509,,2014,,,,Local,4600.83428908,4600.83428908,1711.01535065748
+2,1358,1479,Exchange Ave,Third,Danny Thomas,Bike Lane,Existing,,,2016PW-2021CIP,Memphis,TN,,0.318480744432,,0,,,,Local,1681.5783306,1681.5783306,626.640307331242
+3,1359,1480,Exchange Ave,Main,Third,Bike Lane,Existing,,,2016PW-2021CIP,Memphis,TN,,0.147507942322,,0,,,,Local,778.841935462,778.841935462,290.174804157853
+4,1360,1481,Adams Ave,Third,Danny Thomas,Bike Lane,Existing,,,2015CIP,Memphis,TN,,0.32993085936,,2015,,,,Local,1742.03493742,1742.03493742,649.13437400896
+5,1361,1482,Adams Ave,Front,Third,Marked Shared Roadway,Existing,,,2015CIP,Memphis,TN,,0.226776040436,,2015,,,,Local,1197.3774935,1197.3774935,446.037888214538
+6,1362,1485,Duke Rd,Chelsea,Bayliss,Marked Shared Roadway,Existing,,,2014PW,Memphis,TN,,0.586501776509,,2014,,,,Local,3096.72937997,3096.72937997,1158.16466776893
+7,1363,1486,Bayliss Ave,Graham,Wells Station,Marked Shared Roadway,Existing,,,2015PW,Memphis,TN,,0.517813017926,,2015,,,,Local,2734.05273465,2734.05273465,1018.3164100903
+8,1366,1490,Highland St,Scenic,James,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.322976612124,,2014,,,,Local,1705.31651202,1705.31651202,638.248675768763
+9,1367,1492,Pauline St,Poplar,Union,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.576125735321,,2016,,,,Local,3041.94388249,3041.94388249,1136.68712806189
+10,1368,1493,Orchi Rd,Chelsea,Longfellow,Marked Shared Roadway,Existing,,,2014PW,Memphis,TN,,0.153320776665,,2014,,,,Local,809.533700792,809.533700792,302.1221394413
+11,1369,1494,Chelsea Ave,Ruskin,Graham,Bike Lane,Existing,MEM 40; MEM 60,,2003Routes; 2014PW,Memphis,TN,,0.516534803765,,2014,,,,Local,2727.30376388,2727.30376388,1016.4278342597
+12,1371,1496,"Dr. MLK, Jr. Ave",Manassas,Linden,Cycle Track,Existing,,,2016PW,Memphis,TN,,0.425785326832,,2019,,,,Local,2248.14652567,2248.14652567,837.086021048501
+13,1372,1497,Milton Wilson Blvd,Forrest,Chester,Signed Shared Roadway,Existing,,,,Arlington,TN,,1.56231530621,,2013,,,,,8249.02481681,8249.02481681,3089.57013049331
+14,1373,1498,Aubrey Ranch Greenway N,Black Gold,Dusty Field,Shared Use Path,Existing,,,,Arlington,TN,,0.167370269176,,2013,,,,,883.715021252,883.715021252,330.812825602868
+15,1374,1499,Aubrey Ranch Dr,Dusty Field,Longhorn,Shared Use Path,Existing,,,,Arlington,TN,,0.127855781384,,2013,,,,,675.07852571,675.07852571,252.784092865937
+16,1375,1500,Forrest Street Greenway,Depot,West of Griffin,Shared Use Path,Existing,,,,Arlington,TN,,0.161789666767,,2012,,,,,854.249440528,854.249440528,318.772910476004
+17,1379,1504,Annandale Dr,Holmes,State Line,Bike Lane,Existing,,,,Shelby Co,TN,,0.79845389977,,2013,,,,,4215.83659078,4215.83659078,1573.67215651328
+18,1380,1505,Forest Hill Irene Rd,Walnut Grove,River Meadow,Paved Shoulder,Existing,,,,Shelby Co,TN,,1.31236313099,,2013,,,,,6929.27733161,6929.27733161,2590.03397431421
+19,1381,1506,Houston Levee Rd,Glen Lakes,Sutton Ridge,Signed Shared Roadway,Existing,,,Shelby Co,Shelby Co,,,0.784863172582,,2013,,,,,4144.07755123,4144.07755123,1548.87979159324
+20,1382,1507,Lowrance Rd,Long Creek,Stansell,Bike Lane,Existing,,,,Shelby Co,TN,,0.490904467396,,2013,,,,,2591.97558785,2591.97558785,963.765316380297
+21,1383,1508,Long Creek Rd,Autumn Harvest,Lowrance,Bike Lane,Existing,,,,Shelby Co,TN,NEED TO VERIFY FACILITY IN FIELD,0.529056318769,,2013,,,,,2793.4173631,2793.4173631,1042.65341757281
+22,1395,1523,Fields Rd,Hicky,Weaver,Paved Shoulder,Existing,,,2014PW,Memphis,TN,,0.286010018433,,2014,,,,Local,1510.13289732,1510.13289732,561.607220299912
+23,1396,1524,Fields Rd,Boxtown,Sewanee,Paved Shoulder,Existing,,,2014PW,Memphis,TN,,0.480949345093,,2014,,,,Local,2539.41254209,2539.41254209,944.394139396556
+24,1398,1526,Bass Pro Dr,I-40,Riverside,Bike Lane,Existing,,,,Memphis,TN,,0.27043303185,,2015,,,,,1427.88640817,1427.88640817,533.64810433534
+25,1400,1529,McLean Blvd,James,Nedra,Cycle Track,Existing,MEM 20; MEM 40; WRG 5b,,WRG,Memphis,TN,2003Routes,1.20065676059,,2020,,,,Private,6339.46769594,6339.46769594,2371.75787916216
+26,1401,1530,Broad Ave,Tillman,Holmes,Cycle Track,Existing,HAMPLINE,,2014PW,Memphis,TN,,0.574804713652,,2014,,,,Local,3034.96888808,3034.96888808,1130.29904839354
+27,1402,1531,Tillman St,Summer (US-70),Broad,Marked Shared Roadway,Existing,HAMPLINE,,2014PW,Memphis,TN,,0.15023268774,,2014,,,,Local,793.228591266,793.228591266,296.690106511015
+28,1405,1559,Berryhill Rd,Oak Springs,Forest Hill-Irene,Bike Lane,Existing,,,2011PW,Memphis,TN,,0.517024647827,,2011,,,,Local,2729.89014053,2729.89014053,1019.48496982625
+29,1406,1560,Covington Pike (TN-204),Austin Peay,Raleigh Lagrange,Bike Lane,Existing,,Vision,2014TDOT,Memphis,TN,,2.9553282598,Secondary,2014,N,,,TDOT,15604.1332118,15604.1332118,5839.91144180408
+30,1408,1562,Marshall St,Madison,Union,Bike Lane,Existing,,,MEMfix,Memphis,TN,,0.296473059567,,2014,,,,Local,1565.37775451,1565.37775451,584.217866525464
+31,1409,1563,Sanderlin Ave,Mendenhall,White Station,Buffered Bike Lane,Existing,,,2016PW,Memphis,TN,,0.435453261095,,2015,,,,Local,2299.19321858,2299.19321858,855.772877061511
+32,1412,1568,Hawkins Mill Rd,Overton Crossing,Aline,Signed Shared Roadway,Existing,,,2015PW,Memphis,TN,,0.551979758317,,2015,,,,Local,2914.45312391,2914.45312391,1087.4621441659
+33,1420,1577,Kirby Rd,Humphreys,Poplar,Buffered Bike Lane,Existing,,,2003Routes,Memphis,TN,,0.566111072099,,2015,,,,,2989.06646068,2989.06646068,1116.80182922871
+34,1421,1580,Mt. Moriah Rd,Willow,Mendenhall,Bike Lane,Existing,,,2015CIP,Memphis,TN,,0.842991145502,,2016,,,,Local,4450.99324825,4450.99324825,1658.86210949707
+35,1422,1581,Pendleton St,Byrd,Ketchum,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.236707030895,,2016,,,,Local,1249.81312313,1249.81312313,467.071894058433
+36,1423,1582,Pendleton St,Semmes,Byrd,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.232045816157,,2016,,,,Local,1225.20190931,1225.20190931,457.508188210921
+37,1424,1583,Florida St,Mallory,Approx. 500' north of Kansas,Buffered Bike Lane,Existing,,,STP4,Memphis,TN,,0.216468484514,,2016,,,,STP-M,1142.95359823,1142.95359823,427.16351862922
+38,1426,1586,Hollywood St,Staten,Jackson,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.532349077231,,2016,,,,Local,2810.80312778,2810.80312778,1051.46350234633
+39,1429,1589,Horn Lake Rd,Van Huesen,Holmes,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.305679687763,,2016,,,,Local,1613.98875139,1613.98875139,602.640534648579
+40,1430,1590,Horn Lake Rd,Honduras,Van Huesen,Marked Shared Roadway,Existing,,,2016CIP,Memphis,TN,,0.261519898235,,2016,,,,Local,1380.82506268,1380.82506268,515.60663325789
+41,1431,1592,Kirby Rd,Humphreys,Poplar,Cycle Track,Existing,,,2003Routes,Memphis,TN,,0.699665245207,,2015,,,,,3694.23249469,3694.23249469,1380.13829511195
+42,1432,1593,Kirby Rd,Humphreys,Poplar,Bike Lane,Existing,,,2003Routes,Memphis,TN,,0.289870149687,,2015,,,,,1530.51439035,1530.51439035,572.225807772044
+43,1434,1595,Wolf River Greenway Phase 1,MIssissippi River,Second,Shared Use Path,Existing,,NEW2011,WRG,Memphis,TN,,0.757570108102,Primary,2017,N,,,Private,3999.97017078,3999.97017078,1492.46858441239
+44,1437,1599,Wolf River Greenway Phase 9,Highland,Epping Way,Shared Use Path,Existing,,NEW2011,WRG,Memphis,TN,,0.650901505903,Primary,2017,N,,,Private,3436.75995117,3436.75995117,1283.02342529382
+45,1439,1601,Highland St,James,Chelsea,Cycle Track,Existing,WRG 8,NEW2011,WRG,Memphis,TN,,1.71613232768,Primary,2019,N,,,Private,9061.17869014,9061.17869014,3390.70640095548
+46,1441,1603,Wolf River Greenway Phase 14A,Shelby Farms Greenline,TVA Powerline,Shared Use Path,Existing,,NEW2011,WRG,Memphis,TN,,0.746919433339,Primary,0,N,,,Private,3943.73460803,5205.59008399,1943.79396696654
+47,1443,1605,Wolf River Greenway Phase 14B,TVA Powerline,Walnut Grove,Shared Use Path,Existing,,NEW2011,WRG,Memphis,TN,,0.956786839837,Primary,2020,N,,,Private,5051.83451434,4797.68102566,1789.63793079235
+48,1445,1608,Mt. Moriah,Ridgeway,Kirby,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.816738524446,,2016,,,,Local,4312.37940907,4312.37940907,1605.79601489138
+49,1446,1609,Winchester Rd,Hacks Cross,Tournament,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.657381619845,,2016,,,,Local,3470.97495278,3470.97495278,1290.81332717182
+50,1447,1610,Florida St,Carolina,DeSoto,Cycle Track,Existing,,,STP-BIKE,Memphis,TN,,0.417320259536,,2020,,,,STP-BIKEPED,2203.45097035,2203.45097035,823.916517908933
+51,1461,1625,Fletcher Trace Pkwy,US-64,Berryhill,Paved Shoulder,Existing,,,2016PW,Memphis,TN,,0.49675585347,,2016,,,,Local,2622.87090632,2622.87090632,979.043559164635
+52,1467,1632,Perry Rd,Dunn,Alcy,Bike Lane,Existing,,,2016PW,Memphis,TN,,0.985456750677,,2017,,,,Local,5203.21164357,5203.21164357,1944.60773012679
+53,1468,1634,Hillshire Dr,Whitten,Appling Farms,Bike Lane,Existing,,,2016PW,Memphis,TN,,1.17987153292,,2016,,,,Local,6229.72169381,6229.72169381,2322.45822672554
+54,1474,1640,Autumn Creek Dr,Cordova Club,Cordova,Bike Lane,Existing,,,,Memphis,TN,,0.550378775221,,2020,N,,,Local,2905.99993317,2905.99993317,1083.74452675322
+55,1475,1641,Beale St,Riverside,Front,Bike Lane,Existing,,,,Memphis,TN,,0.113057771397,,2017,,,,Local,596.945032976,596.945032976,222.371478703989
+56,1477,1643,Benjestown Rd,Carrolton,Marsh,Marked Shared Roadway,Existing,,,2018CIP,Memphis,TN,,0.950972590699,,2018,,,,Local,5021.13527889,5021.13527889,1879.68067844806
+57,1478,1644,Blue Trail,Hy Crop Row,Trailhead Access Road,Shared Use Path,Existing,,,,Shelby Co,TN,,1.12919472555,,2000,,,,Local,5962.14815093,5962.14815093,2224.44300639595
+58,1479,1645,Sunflower Trail,Farm Road,Hy Crop Row,Shared Use Path,Existing,,,,Shelby Co,TN,,1.97193088031,,2017,,,,Local,10411.795048,10411.795048,3877.76869027572
+59,1481,1647,Chelsea Ave,Warford,Holmes,Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.697352218059,,2019,,,,Local,3682.01971135,3682.01971135,1371.49627241675
+60,1482,1648,Cooper St,Southern,McLemore/South Parkay,Bike Lane,Existing,,,,Memphis,TN,,0.0939826072909,,2017,,,,Local,496.228166496,496.228166496,185.52422814085
+61,1483,1649,Colonial Rd,Park,Willow,Bike Lane,Existing,,,,Memphis,TN,,1.45519070935,,2017,,,,Local,7683.40694537,7683.40694537,2871.95470489654
+62,1484,1650,Estate Dr,Park,Quince,Bike Lane,Existing,,,2018CIP,Memphis,TN,,0.934703041635,,2018,,,,Local,4935.23205983,4935.23205983,1844.73987462108
+63,1485,1651,Frayser Blvd,Overton Crossing,Warford,Bike Lane,Existing,,,,Memphis,TN,,1.79364080757,,2020,,,,Local,9470.42346399,9470.42346399,3530.66635335681
+64,1486,1652,Frayser Raleigh Rd,Old Allen,Raleigh Millington,Bike Lane,Existing,MEM 30; MEM 60,,2019CIP,Memphis,TN,2003Routes,1.25256903465,Regional,2020,N,,,Local,6613.56450297,6613.56450297,2465.63050589272
+65,1487,1653,Goodwyn St,Central,Southern,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.563130691107,,2018,,,,Local,2973.33004905,2973.33004905,1111.71227840618
+66,1488,1654,Hickory Hill Rd,Winchester,Raines,Bike Lane,Existing,,,2017CIP,Memphis,TN,,1.04626322362,,2017,,,,Local,5524.26982072,5524.26982072,2063.53812564986
+67,1490,1656,Lauderdale St,Madison,Union,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.159368079348,,2016,,,,Local,841.463458957,841.463458957,314.686132272227
+68,1491,1657,Manassas St,Poplar,Union,Cycle Track,Existing,,,,Memphis,TN,,0.496491456164,,2017,,,,Local,2621.47488855,2621.47488855,980.369875090113
+69,1492,1658,Manassas St,North Parkway,Gene Logan,Bike Lane,Existing,,,,Memphis,TN,,0.166705214945,,2017,,,,Local,880.203534909,880.203534909,329.225140256505
+70,1493,1659,Manassas St,Gene Logan,Poplar,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.499840047264,,2017,,,,Local,2639.15544955,2639.15544955,987.075948711275
+71,1494,1660,Macon Rd,Jackson,Homer,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.828372022469,,2019,,,,Local,4373.80427864,4373.80427864,1629.69431452637
+72,1495,1661,Macon Rd,Homer,Berclair,Buffered Bike Lane,Existing,,,,Memphis,TN,,1.59769000608,,2019,,,,Local,8435.80323209,8435.80323209,3141.6156920779
+73,1497,1663,Mississippi Blvd,E H Crump,Kerr,Buffered Bike Lane,Existing,,,,Memphis,TN,,1.26470148755,,2018,,,,Local,6677.62385426,6677.62385426,2495.16966239711
+74,1498,1664,Overton Crossing St,Jan,Whitney,Bike Lane,Existing,,,,Memphis,TN,,0.81150292391,,2017,,,,Local,4284.73543824,4284.73543824,1603.71319693885
+75,1499,1665,Peabody Ave,Bellevue,Willett,Bike Lane,Existing,,,,Memphis,TN,,0.609349247178,,0,,,,Local,3217.3640251,3217.3640251,1197.75644296427
+76,1500,1666,Peabody Ave,Willett,Cooper,Bike Lane,Existing,,,,Memphis,TN,,1.11088053593,,0,,,,Local,5865.44922968,5865.44922968,2183.57518589726
+77,1501,1667,Front St,Peabody Place,Beale,Bike Lane,Existing,,,,Memphis,TN,,0.0452507798656,,2017,,,,Local,238.924117691,238.924117691,89.2784912211455
+78,1502,1668,Peabody Place,Front,Fourth,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.375959988669,,2017,,,,Local,1985.06874017,1985.06874017,739.261262705449
+79,1503,1669,Fourth,Peabody Place,MLK Jr,Cycle Track,Existing,,,,Memphis,TN,,0.187286378033,,2017,,,,Local,988.872076015,988.872076015,369.800560600018
+80,1504,1670,Raleigh Lagrange Rd,Coleman,Covington Pike,Buffered Bike Lane,Existing,,,,Memphis,TN,,1.10985209683,,2018,,,,Local,5860.01907124,5860.01907124,2185.79051423468
+81,1505,1671,Riverdale Rd,Dead end on the north,Quince,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.795501064441,,2020,,,,Local,4200.24562025,4200.24562025,1568.13083381253
+82,1506,1672,Rockcreek Parkway,Germantown,US-64,Signed Shared Roadway,Existing,,,,Memphis,TN,,2.7626896731,,2016,,,,Local,14587.0014739,14587.0014739,5446.55960390233
+83,1507,1673,Semmes St,Pendleton,Lamar,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.501803598042,,2020,,,,Local,2649.52299766,2649.52299766,986.487868025337
+84,1509,1675,Tchulahoma Rd,Knight Arnold,Winchester,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.710578294249,,2019,,,,Local,3751.85339363,3751.85339363,1401.08755899731
+85,1510,1676,Tchulahoma Rd,Winchester,Old Tchulahoma,Bike Lane,Existing,,,,Memphis,TN,,0.414878250849,,2019,,,,Local,2190.55716448,2190.55716448,817.566837108405
+86,1511,1677,Tchulahoma Rd,Old Tchulahoma,Christine,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.260909423678,,2019,,,,Local,1377.60175702,1377.60175702,514.606541310335
+87,1512,1678,Timber Creek Dr,Germantown,Walnut Grove,Bike Lane,Existing,,,,Memphis,TN,,0.488100471382,,2017,,,,Local,2577.1704889,2577.1704889,961.420495426557
+88,1513,1679,Tutwiler Rd,Highland,Graham,Paved Shoulder,Existing,,,,Memphis,TN,,0.940725171356,,2018,,,,Local,4967.02890476,4967.02890476,1849.5744939327
+89,1514,1680,Watkins St,Chelsea,Sommerset,Bike Lane,Existing,,,,Memphis,TN,,1.34889887496,,2019,,,,Local,7122.18605979,7122.18605979,2663.86325437154
+90,1516,1682,Whitten Rd,Century Center,Macon,Bike Lane,Existing,,,,Memphis,TN,,0.346554307742,,2016,,,,Local,1829.80674488,1829.80674488,684.568608883852
+91,1517,1683,Wolf River Greenway Phase 11,Kennedy Park,Kennedy Park,Shared Use Path,Existing,,,,Memphis,TN,,1.48016659484,,2017,,,,Private,7815.27962078,7815.27962078,2919.37156324254
+92,1519,1685,Yale Rd,Austin Peay,Scheibler,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.260471902664,,2019,,,,Local,1375.29164606,1375.29164606,512.559154912136
+93,1520,1686,Yale Rd,Scheibler,Scheibler,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.154194062627,,2019,,,,Local,814.14465067,814.14465067,303.424978544707
+94,1521,1687,Yale Rd,Scheibler,Covington Pike,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.403013204226,,2019,,,,Local,2127.90971831,2127.90971831,793.049260864028
+95,1522,1688,Yale Rd,Covington Pike,Chowning,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.180523605769,,2019,,,,Local,953.164638461,953.164638461,355.286679526017
+96,1523,1689,Yale Rd,Chowning,Lynchburg,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.17980244172,,2019,,,,Local,949.35689228,949.35689228,353.815991631942
+97,1524,1690,Yale Rd,Lynchburg,Old Brownsville,Buffered Bike Lane,Existing,,,,Memphis,TN,,0.281309594654,,2019,,,,Local,1485.31465977,1485.31465977,553.554581804015
+98,1525,1691,McLemore Ave,Bellevue,Rayner,Bike Lane,Existing,,,,Memphis,TN,,0.54470402509,,2018,,,,Local,2876.03725247,2876.03725247,1070.52354344021
+99,1526,1692,"Dr. MLK, Jr. Ave",Third,Fourth,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.198420797232,,2016,,,,Local,1047.66180938,1047.66180938,390.20058404478
+100,1527,1693,Mallory Ave,Third,Lauderdale,Bike Lane,Existing,,,2017CIP,Memphis,TN,,0.694537297657,,2018,,,,Local,3667.15693163,3667.15693163,1364.41441691611
+101,1528,1694,Walker ave,Highland,Brister,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.142190316112,,2016,,,,TAP-S,750.764869072,750.764869072,279.438999135501
+102,1529,1614,Jackson Ave,Warford,National,Bike Lane,Existing,,,,Memphis,TN,,1.51959273641,,2017,,,,Local,8023.44964824,8023.44964824,2993.34094895406
+103,1530,1695,Chimneyrock Blvd,Westbriar,Dexter,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.941174964438,,2020,,,,Local,4969.40381223,4969.40381223,1852.32955556802
+104,1531,1696,Chimneyrock Blvd,Germantown,Westbriar,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.312937570142,,2020,,,,Local,1652.31037035,1652.31037035,615.499632261473
+105,1532,1697,Raleigh Lagrange Rd,Sycamore View,Sycamore Heights,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.214286086206,,2020,,,,Local,1131.43053517,1131.43053517,421.524006680046
+106,1533,1698,Raleigh Lagrange Rd,Sycamore Heights,Woodfield Park,Signed Shared Roadway,Existing,,,2019CIP,Memphis,TN,,0.302231033601,,2020,,,,Local,1595.77985742,1595.77985742,594.540836899061
+107,1534,1699,Raleigh Lagrange Rd,Woodfield Park,Summer,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.169715762977,,2020,,,,Local,896.099228517,896.099228517,333.908267431557
+108,1535,1700,Raleigh Lagrange Rd,Summer,Leichester,Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.288331001915,,2020,,,,Local,1522.38769011,1522.38769011,567.273953400982
+109,1536,1701,Raleigh Lagrange Rd,Leichester,Whitten,Bike Lane,Existing,,,2019CIP,Memphis,TN,,1.09724153293,,2020,,,,Local,5793.43529389,5793.43529389,2158.98334468865
+110,1537,1702,Dexter Rd,Germantown,Dewberry,Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,1.39855351021,,2019,,,,Local,7384.36253389,7384.36253389,2752.76702799845
+111,1539,1704,Willow Rd,Getwell,Cherry,Bike Lane,Existing,Route 50; Route 60,,2019CIP,Memphis,TN,,0.818078731867,,2020,,,,Local,4319.45570426,4319.45570426,1607.18701595145
+112,1540,1705,Willow Rd,Cherry,Dearing,Bike Lane,Existing,Route 50; Route 60,,2019CIP,Memphis,TN,,0.189526180738,,2020,,,,Local,1000.6982343,1000.6982343,372.320627563191
+113,1541,1706,Willow Rd,Dearing,Dorrie,Marked Shared Roadway,Existing,Route 50; Route 60,,2019CIP,Memphis,TN,,0.246313682696,,2020,,,,Local,1300.53624463,1300.53624463,483.87844204551
+114,1542,1707,Willow Rd,Dorrie,Perkins,Marked Shared Roadway,Existing,Route 50; Route 60,,2019CIP,Memphis,TN,,0.112745319838,,2020,,,,Local,595.295288743,595.295288743,221.486198707212
+115,1543,1708,Ketchum Rd,Ball,Pendleton,Bike Lane,Existing,,,2019CIP,Memphis,TN,,1.16916611369,,2020,,,,Local,6173.1970803,6173.1970803,2297.80750499637
+116,1545,1709,Ketchum Rd,Pendleton,Dead End,Signed Shared Roadway,Existing,,,2019CIP,Memphis,TN,,0.364677855015,,2020,,,,Local,1925.49907448,1925.49907448,716.359746075328
+117,1546,1710,White Station Rd,Whitehall,Walnut Grove,Marked Shared Roadway,Existing,,,2019CIP,Memphis,TN,,1.15211573351,,2020,,,,Local,6083.17107292,6083.17107292,2274.54377330541
+118,1547,1711,White Station Rd,Mendenhall,Summer (US-70),Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.661073273828,,2020,,,,Local,3490.46688581,3490.46688581,1302.25407842912
+119,1548,1712,White Station Rd,Summer (US-70),Mesquite,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.450308066719,,2020,,,,Local,2377.62659227,2377.62659227,889.127424205867
+120,1549,1713,McCrory Ave,Berclair,Mendenhall,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.838040343966,,2020,,,,Local,4424.85301614,4424.85301614,1648.70638919125
+121,1550,1714,Highland St,Walnut Grove,Poplar,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.286980529654,,2019,,,,Local,1515.25719657,1515.25719657,566.617571771942
+122,1551,1715,Highland St,Poplar,Central,Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.316024526295,,2019,,,,Local,1668.60949884,1668.60949884,623.926211346185
+123,1552,1716,Mallory Ave,Castex,Kansas,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.294648277251,,2020,,,,Local,1555.74290388,1555.74290388,578.837319489613
+124,1553,1717,Mallory Ave,Kansas,Main,Marked Shared Roadway,Existing,,,2019CIP,Memphis,TN,2014PW,0.371263571462,,2020,,,,Local,1960.27165732,1960.27165732,729.34709025581
+125,1554,1718,Mallory Ave,Main,Third,Bike Lane,Existing,,,2019CIP,Memphis,TN,2014PW,0.0907892082115,,2020,,,,Local,479.367019357,479.367019357,178.35513535102
+126,1556,1720,Tulane Rd,Dead End,Shelby,Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.722841631933,,2020,,,,Local,3816.60381661,3816.60381661,1425.30754650727
+127,1557,1721,Massey Rd,Poplar Pike,Quince,Paved Shoulder,Existing,,,,Memphis,TN,,1.06970770719,,2018,,,,Local,5648.05669396,5648.05669396,2110.65928249086
+128,1559,1722,Craft Rd,Birchleaf,Elvis Presley,Bike Lane,Existing,,,,Memphis,TN,,0.232994380957,,2017,,,,,1230.21033145,1230.21033145,457.475424481015
+129,1560,1723,Knight Arnold Rd,Ridgeway,Kirby,Bike Lane,Existing,,,,Memphis,TN,,0.758619407103,,2018,,,,,4005.5104695,4005.5104695,1489.9167514688
+130,1561,1724,Court,Fourth,Danny Thomas,Paved Shoulder,Existing,,,,Memphis,TN,,0.217462912926,,2018,,,,,1148.20418025,1148.20418025,427.699798663596
+131,1562,1725,Court,Second,Fourth,Paved Shoulder,Existing,,,,Memphis,TN,,0.232450781359,,2018,,,,,1227.34012558,1227.34012558,457.176878066073
+132,1563,1726,Riverwalk,Bass Pro,Coast Gaurd Access Road,Shared Use Path,Existing,,,,Memphis,TN,,0.529576214942,,2019,,,,,2796.1624149,2796.1624149,1045.08332493632
+133,1564,1727,Coast Gaurd Access Road,Riverwalk,A.W. Willis,Marked Shared Roadway,Existing,,,,Memphis,TN,,0.0810057664277,,2019,,,,,427.710446738,427.710446738,159.530813588062
+134,1566,1728,Monteigne Blvd,Calhoun,Nottoway,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.1149271216,,1999,,,,Local,606.815202046,606.815202046,226.892298261229
+135,1567,1729,Nottoway Blvd,Southbluff,Monteigne,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.0745849423872,,1999,,,,Local,393.808495805,393.808495805,146.68525897575
+136,1568,1730,Bluffwalk,Nottoway,Martyrs Park,Shared Use Path,Existing,,,,Memphis,TN,,0.393951787205,,2008,,,,Grant,2080.06543644,2080.06543644,775.635914788243
+137,1569,1731,Bluffwalk,Martyrs Park Statue,South End of Path,Shared Use Path,Existing,,,,Memphis,TN,,0.100178364832,,2008,,,,Grant,528.941766311,528.941766311,197.27062482385
+138,1570,1732,Martyrs Park Circle,Bluffwalk,Channel 3,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.165295578945,,1999,,,,,872.760656831,872.760656831,325.664545818698
+139,1571,1733,Wolf River Greenway Phase 11 Access,Wolf River Greenway Phase 11,Raleigh LaGrange,Shared Use Path,Existing,,,,Memphis,TN,,0.157286879997,,2018,,,,Private,830.474726387,830.474726387,309.96158544671
+140,1573,1734,Shelby Farms Park Appling Road Access,Shelby Farms Chickasaw Trail,Shelby Farms Greenline East Ex,Shared Use Path,Existing,,,,Memphis,TN,,0.169773990862,,2019,,,,Private,896.406671753,896.406671753,334.198206353198
+141,1575,1736,Stout Rd,Kirby,McVay,Bike Lane,Existing,,,,Memphis,TN,,0.737839909006,,2020,,,,,3895.79471955,3895.79471955,1449.60408591011
+142,1576,1736,Raines Rd,Getwell,Lamar,Buffered Bike Lane,Existing,,,2017CIP,Memphis,TN,,1.14051917935,,2018,,,,Local,6021.94126697,6021.94126697,2239.55973585337
+143,1577,1737,Corporate Ave,Elvis Presley,Nonconnah,Marked Shared Roadway,Existing,,,2018CIP,Memphis,TN,,2.01793741233,,2019,,,,Local,10654.7095371,10654.7095371,3965.56334503755
+144,1579,1739,Macon Rd,Wells Station,Berclair,Buffered Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.342595478996,,2020,,,,Local,1808.9041291,1808.9041291,673.660310285337
+145,1580,1740,White Station Rd,Mesquite,Whitehall,Bike Lane,Existing,,,2019CIP,Memphis,TN,,0.0722309495566,,2020,,,,Local,381.379413659,381.379413659,142.642280650008
+146,1581,1741,Mt. Moriah Rd,Mendenhall,Hickory Hill,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,1.29972406495,,2020,,,,Local,6862.54306295,6862.54306295,2554.71244129426
+147,1583,1742,Ridgeway Rd,Winchester,Raines,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,1.02894078955,,2020,,,,Local,5432.80736882,5432.80736882,2029.22888913491
+148,1584,1743,Hollywood St,I-40,Wolf River Greenway Phase 6,Paved Shoulder,Existing,,,2020CIP,Memphis,TN,,0.36794335061,,2019,,,,Local,1942.74089122,1942.74089122,727.002448620588
+149,1585,1744,Hollywood St,Wolf River Greenway Phase 6,Chelsea,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.806095473501,,2019,,,,Local,4256.18410009,4256.18410009,1592.46663959783
+150,1587,1745,Hollywood St,Chelsea,Staten,Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.666520440469,,2019,,,,Local,3519.22792568,3519.22792568,1316.63222858721
+151,1588,1746,Winchester Rd,Graves,Elvis Presley,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.898127405257,,2021,,,,Local,4742.11269976,4742.11269976,1763.67963287893
+152,1589,1747,Raleigh Lagrange Rd,Covington Pike,Sycamore View,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,1.60689382373,,2019,,,,Local,8484.39938931,8484.39938931,3164.31537003644
+153,1590,1748,Holmes Rd,Elvis Presley,Santa Monica,Bike Lane,Existing,,,2020CIP,Memphis,TN,,1.12598515526,,2021,,,,Local,5945.20161975,5945.20161975,2209.79671781655
+154,1591,1749,Holmes Rd,Santa Monica,Hudgins,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.330280529444,,2021,,,,Local,1743.88119546,1743.88119546,648.188353840077
+155,1592,1750,Holmes Rd,Hudgins,Queen Elizabeth,Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.0757491928823,,2021,,,,Local,399.955738418,399.955738418,148.661153844753
+156,1593,1751,Holmes Rd,Queen Elizabeth,Hornsby,Buffered Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.258612913073,,2021,,,,Local,1365.47618102,1365.47618102,507.539644333926
+157,1594,1752,Quince Rd,Cherry,Sea Isle,Paved Shoulder,Existing,,,2020CIP,Memphis,TN,,0.402954879382,,2020,,,,Local,2127.60176314,2127.60176314,792.504679887836
+158,1595,1753,Quince Rd,Sea Isle,Perkins,Bike Lane,Existing,,,2020CIP,Memphis,TN,,0.179566399634,,2020,,,,Local,948.110590066,948.110590066,353.061435881638
+159,1596,1754,Quince Rd,Perkins,Mt. Moriah,Paved Shoulder,Existing,,,2020CIP,Memphis,TN,,0.621332422964,,2020,,,,Local,3280.63519325,3280.63519325,1220.68166123626
+160,1597,1755,National St,Jackson,Macon,Marked Shared Roadway,Existing,,,2020CIP,Memphis,TN,,0.842596809897,,2019,,,,Local,4448.91115625,4448.91115625,1663.17825555541
+161,1598,1756,National St,Macon,Summer,Marked Shared Roadway,Existing,,,2020CIP,Memphis,TN,,0.894493083158,,2019,,,,Local,4722.92347907,4722.92347907,1766.61557724085
+162,1599,1757,Belvedere Blvd,Madison,Union,Buffered Bike Lane,Existing,MEM 10; MEM 40,,STP Bike,Memphis,TN,,0.154927599172,Primary,2020,,,,STP-BIKEPED,818.017723626,818.017723626,305.904946209384
+163,1600,1758,Homer St,Macon,Wayne,Bike Lane,Existing,,,,Memphis,TN,,0.10837451931,,2019,,,,Local,572.217461956,572.217461956,214.059290432953
+164,1619,1776,Scheibler Rd,Yale,Olds,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.37043116961,,2021,,,,Local,1955.87657554,1955.87657554,731.654464236393
+165,1620,1777,Scheibler Rd,Olds,Craigmont,Marked Shared Roadway,Existing,,,2021CIP,Memphis,TN,,0.128116559311,,0,,,,Local,676.455433162,676.455433162,253.043483132443
+166,1621,1778,Scheibler Rd,Craigmont,Casann,Paved Shoulder,Existing,,,2021CIP,Memphis,TN,,0.177996311125,,0,,,,Local,939.82052274,939.82052274,351.578791734218
+167,1622,1779,Coleman Rd,Yale,Stage,Bike Lane,Existing,,,2021CIP,Memphis,TN,,1.19773050442,,2021,,,,Local,6324.01706334,6324.01706334,2365.89044098692
+168,1623,1780,Kirby Pkwy,Messick,Quince,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,1.00931355301,,2021,,,,Local,5329.17555987,5329.17555987,1991.01323140584
+169,1624,1781,Cully Rd,Cordova,Macon,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.137290333969,,2021,,,,Local,724.892963356,724.892963356,271.041272235053
+170,1625,1782,Macon Rd,Macon,Macon,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.145919480829,,2021,,,,Local,770.454858775,770.454858775,288.187455055223
+171,1626,1783,Crestridge Rd,Five Colonies,Cotton Plant,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,1.13270635286,,2021,,,,Local,5980.68954308,5980.68954308,2226.01523727647
+172,1627,1784,Crestridge Rd,East of Cotton Plant,West of Grand Fields,Signed Shared Roadway,Existing,,,2021CIP,Memphis,TN,,0.0404591825123,,2021,,,,Local,213.624483665,213.624483665,79.4638357084891
+173,1630,1787,Millbranch Rd,Riverbrook,City Limit,Bike Lane,Existing,,,2021CIP,Memphis,TN,,2.07055982744,,2021,,,,Local,10932.5558889,10932.5558889,4081.93441491433
+174,1631,1788,Alcy Rd,Elvis Presley,Ketchum,Bike Lane,Existing,,,2021CIP,Memphis,TN,,1.9840759771,,2021,,,,Local,10475.9211591,10475.9211591,3898.43590138225
+175,1633,1790,Mendenhall Rd,McCrory,Tutwiler,Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.607835035385,,2021,,,,Local,3209.36898683,3209.36898683,1200.46928729011
+176,1634,1791,Mendenhall Rd,Tutwiler,Summer,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.120192993825,,2021,,,,Local,634.619007395,634.619007395,237.366256061566
+177,1635,1792,Mendenhall Rd,Summer,Walnut Grove,Bike Lane,Existing,,,2021CIP,Memphis,TN,,1.22923377909,,2021,,,,Local,6490.35435361,6490.35435361,2427.30079968061
+178,1646,1803,Lauderdale St,Exchange,Washington,Marked Shared Roadway,Existing,,,2021CIP,Memphis,TN,,0.15220362237,,2021,,,,Local,803.635126115,803.635126115,300.562817615225
+179,1648,1805,Whitney Ave,Harvester,Watkins,Bike Lane,Existing,MEM 30; MEM 60,,2021CIP,Memphis,TN,,2.36313093428,,2021,,,,Local,12477.331333,12477.331333,4651.87457520736
+180,1649,1806,Knight Arnold Rd,Lamar,Getwell,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.49062942685,,2020,,,,Local,2590.52337377,2590.52337377,963.73502624563
+181,1650,1807,Knight Arnold Rd,Getwell,Goodlett,Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.641041078419,,2020,,,,Local,3384.69689405,3384.69689405,1259.01291062677
+182,1652,1809,Colemen Rd,Stage,Raleigh Lagrange,Buffered Bike Lane,Existing,,,2021CIP,Memphis,TN,,0.3501407924,,2021,,,,Local,1848.74338387,1848.74338387,691.706629632365
+183,1655,1812,Chelsea Ave,Holmes,Highland,Buffered Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.344919440836,,2022,,,,Local,1821.17464762,1821.17464762,678.54110150155
+184,1657,1814,Cotton Plant Rd,Wood Rail,Cotton Grove,Marked Shared Roadway,Existing,,,2022CIP,Memphis,TN,,0.186972011059,,2022,,,,Local,987.212218394,987.212218394,368.805854098014
+185,1658,1815,Cotton Plant Rd,Crestridge,Wood Rail,Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.311453444685,,2022,,,,Local,1644.47418794,1644.47418794,614.372196266781
+186,1661,1816,Directors Row,Brooks,Airways,Buffered Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.574217973541,,2022,,,,Local,3031.8709003,3031.8709003,1130.8490878091
+187,1662,1817,Raines Rd,Third,Horn Lake,Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.181431525359,,2022,,,,Local,957.958453894,957.958453894,356.197686425694
+188,1663,1818,Raines Rd,Horn Lake,Alice,Buffered Bike Lane,Existing,,,2022CIP,Memphis,TN,,1.39916996206,,2022,,,,Local,7387.61739968,7387.61739968,2747.07106532335
+189,1664,1819,Raines Rd,Alice,Auburn,Bike Lane,Existing,,,2022CIP,Memphis,Tn,,0.6018574203,,2022,,,,Local,3177.80717919,3177.80717919,1181.67623551203
+190,1667,1821,Graham St,Summer,Macon,Paved Shoulder,Existing,MEM 40;MEM 60,,2022CIP,Memphis,TN,,0.912540786581,,2022,,,,Local,4818.21535315,4818.21535315,1802.20565316663
+191,1673,1827,New Frayser Raleigh Rd,Warford,Old Allen,Buffered Bike Lane,Existing,MEM 30; MEM 60,,2022CIP,Memphis,TN,2003Routes,0.771337362661,Regional,2022,N,,Y,Local,4072.66127485,4072.66127485,1518.23825152667
+192,1675,1828,Holmes St,Macon,Summer,Marked Shared Roadway,Existing,,,2022CIP,Memphis,TN,,0.948860247485,,2022,,,,Local,5009.98210672,5009.98210672,1874.05338904551
+193,1676,1829,Holmes St,Walnut Grove,Waykona,Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.29726095992,,2022,,,,Local,1569.53786838,1569.53786838,586.765537736616
+194,1678,1830,Holmes St,Waykona,N Johnson,Buffered Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.215066867771,,2022,,,,Local,1135.55306183,1135.55306183,424.676945326006
+195,1680,1831,Norris Rd,I-240,Ball,Buffered Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.594726625515,,2022,,,,Local,3140.15658272,3140.15658272,1168.34376879045
+196,1682,1833,Overton Crossing St,St Elmo,Hawkin Mill,Paved Shoulder,Existing,,,2022CIP,Memphis,TN,,0.742598169338,,2021,,,,Local,3920.9183341,3920.9183341,1468.10590711649
+197,1683,1834,Perkins Rd,McCroy,Summer,Paved Shoulder,Existing,,,2022CIP,Memphis,TN,,0.84535436172,,2022,,,,Local,4463.47102988,4463.47102988,1669.58985114959
+198,1690,1840,St Elmo Ave,Raleigh Millington,Ann Arbor,Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.162939723828,,2022,,,,Local,860.321741813,860.321741813,320.775904010124
+199,1691,1841,St Elmo Ave,Windermere,Raleigh Millington,Bike Lane,Existing,,,2022CIP,Memphis,TN,,0.861680278724,,2022,,,,Local,4549.67187166,4549.67187166,1695.8912797237
+200,1695,1844,White Station Rd,Park,Sea Isle,Marked Shared Roadway,Existing,,,2022CIP,Memphis,TN,,0.82449043448,,2022,,,,Local,4353.30949405,4353.30949405,1627.00146145461
+201,1696,1845,White Station Rd,Sea Isle,Mt Moriah,Marked Shared Roadway,Existing,MEM 50; MEM 60,,2022CIP,Memphis,TN,2003Routes,0.757646070323,Primary,2022,,,,Local,4000.3712513,4000.3712513,1493.05211156699
+202,1705,1852,Graham St,Summer,Carter,Marked Shared Roadway,Existing,MEM 40; MEM 60,,2020CIP,Memphis,TN,,0.0912223238696,,2020,,,,Local,481.653870031,481.653870031,180.152163045622
+203,1706,1853,Graham St,Carter,Philwood,Bike Lane,Existing,MEM 40; MEM 60,,2020CIP,Memphis,TN,,0.188668401705,,2020,,,,Local,996.169161003,996.169161003,372.585625806373
+204,1707,1854,Graham St,Philwood,Shelby Farms Greenline,Paved Shoulder,Existing,MEM 40; MEM 60,,2020CIP,Memphis,,,0.158249735154,,2020,,,,Local,835.558601613,835.558601613,312.504634054483
+205,1708,1855,Graham St,Shelby Farms Greenline,Minden,Buffered Bike Lane,Existing,MEM 40; MEM 60,,STP-BIKE,Memphis,TN,City of Memphis 55 MILES,0.33707885518,Secondary,2020,N,,,STP-BIKEPED,1779.77635535,1779.77635535,665.618410541536
+206,1709,1856,Graham St,Summer,Macon,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.912540786581,Primary,2003,N,,,Local,4818.21535315,4818.21535315,1802.20565316663
+207,1710,1857,Belvedere Blvd,Poplar,Madison,Marked Shared Roadway,Existing,MEM 10; MEM 40,,2020CIP,Memphis,TN,,0.345923506416,Primary,2020,,,,Local,1826.47611388,1826.47611388,683.045496003881
+208,1711,1858,Belvedere Blvd,Union,Peabody,Signed Shared Roadway,Existing,MEM 10; MEM 40,,2003Routes,Memphis,TN,,0.250386045465,Primary,2003,,,,Local,1322.03832006,1322.03832006,494.391056710575
+209,1713,1860,Evergreen St,North Parkway,Galloway,Marked Shared Roadway,Existing,MEM 20; MEM 40,,2020CIP,Memphis,TN,,0.160709009401,Primary,2020,,,,Local,848.543569637,848.543569637,317.372607664143
+210,1739,1885,Riverdale Bend,Winchester,Riverdale,Paved Shoulder,Existing,,,2023CIP,Memphis,TN,,0.515535,,2023,,,,Local,2722.24029,2722.02402931,1013.95410563091
+211,1747,1893,Latham Rd,Mallory,Person,Paved Shoulder,Existing,,,2023CIP,Memphis,TN,,1.030967,,2023,,,,Local,5443.507008,5443.50700779,2034.65829820404
+212,1748,1894,Latham Rd,Person,S Parkway,Marked Shared Roadway,Existing,,,2023CIP,Memphis,TN,,0.420522,,2023,,,,Local,2220.355582,2220.35558154,830.023539717424
+213,1751,1897,Shady Grove,Yates,I 240,Buffered Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.44862,,2023,,,,Local,2368.715704,2368.71570432,881.812456179776
+214,1752,1898,Shady Grove,I 240,I 240,Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.011392,,2023,,,,Local,60.151286,60.1512856368,22.3905779160413
+215,1753,1899,Shady Grove,I240,Angel Green,Buffered Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.061182,,2023,,,,Local,323.038581,323.038581217,120.246820988655
+216,1754,1900,Shady Grove,Angel Green,Brierview,Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.17709,,2023,,,,Local,935.036087,935.036087431,348.052405997447
+217,1755,1901,Shady Grove,Brierview,East of Ripplebrook,Buffered Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.546179,,2023,,,,Local,2883.823812,2883.82381214,1073.88603097647
+218,1756,1902,Shady Grove,East of Ripplebrook,Humphreys,Buffered Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.388857,,2023,,,,Local,2053.16689,2053.16688968,764.684696081826
+219,1757,1903,Fourth,Union,Madison,Marked Shared Roadway,Existing,,,2023CIP,Memphis,TN,,0.148598,,2023,,,,Local,784.595484,784.595483971,293.057514534209
+220,1758,1904,Fourth,Madison,Court,Paved Shoulder,Existing,,,2023CIP,Memphis,TN,,0.071054,,2023,,,,Local,375.165384,375.165383807,140.2574996579
+221,1759,1905,Fourth,Court,Jefferson,Marked Shared Roadway,Existing,,,2023CIP,Memphis,TN,,0.069517,,2023,,,,Local,417.572199,417.572198845,156.029964846298
+222,1760,1906,Fourth,Jefferson,Washington,Marked Shared Roadway,Existing,,,2023CIP,Memphis,TN,,0.144318,,2023,,,,Local,761.998399,761.998399425,284.875932758663
+223,1765,1911,Manassas,North Parkway,Jackson,Bike Lane,Existing,,,2023CIP,Memphis,TN,,0.1059,,2023,,,,Local,559.152436,559.152436038,209.148625196393
+224,1766,1912,Manassas,Jackson,Chelsea,Paved Shoulder,Existing,,,2023CIP,Memphis,TN,,0.589742,,2023,,,,Local,3113.838895,3113.8388946,1164.77156486795
+225,1770,1916,Tutwiler,Faxon,McClean,Bike Lane,Existing,,,,Memphis,TN,,0.665438,,0,,,,Local,3513.514851,3513.51485119,1308.60991279998
+226,1773,1022,Whitney Ave,Watkins,Overton Crossing,Signed Shared Roadway,Existing,MEM 30; MEM 60,,2003Routes,Memphis,TN,,0.541337,Primary,2003,N,,,Local,2858.258427,2858.25842731,1065.09650195714
+227,1774,1024,Whitney Ave,North Second,Harvester,Signed Shared Roadway,Existing,MEM 20; MEM 60; MRT,,2003ROUTES,Memphis,TN,,0.803201,Primary,2003,N,,,Local,4240.898979,4240.89897885,1583.99596135462
+228,1775,1919,Briarcrest,S Shady Grove,Poplar,Bike Lane,Existing,,,CIP2021,Memphis,TN,,0.631758,,2021,,,,Local,3335.683279,3335.68327921,1244.37745442459
+229,1776,1920,Cooper St,Washington,Union,Bike Lane,Existing,,,STP6,Memphis,TN,,0.426911,,2021,,,,STP-M,2254.087969,2254.0879692,842.906538310747
+230,1777,1921,Cooper St,Union,Harbert,Buffered Bike Lane,Existing,,,STP6,Memphis,TN,,0.340415,,2021,,,,STP-M,1797.390595,1797.39059536,672.132974748211
+231,1778,1922,Cooper St,Harbert,Central,Bike Lane,Existing,,,STP6,Memphis,TN,,0.221328,,2021,,,,STP-M,1168.612114,1168.61211359,436.97962132951
+232,1783,1925,Prentiss Pl,McLean,Morrie Moss,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.214127706801,,1906,,,,,1130.59429191,1130.59429191,421.598912826975
+233,1784,1926,Morrie Moss Ln,Prentiss,Kenilworth,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.450201798797,,1906,,,,,2377.06549765,2377.06549765,888.844582995208
+234,1785,1927,Veterans Plaza Dr,Morrie Moss,Poplar,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.484833968116,,1906,,,,,2559.92335165,2559.92335165,956.379249566629
+235,1786,1928,Old Forest Ln,Veterans Plaza,Dead End,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.144421474638,,1906,,,,,762.545386086,762.545386089,284.058771279776
+236,1787,1929,Museum Dr,Morrie Moss,Veterans Plaza,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.197684917232,,1906,,,,,1043.77636298,1043.77636298,388.846559980904
+237,1788,1930,Clocktower Ln,Museum,Veterans Plaza,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.0552804979943,,1906,,,,,291.88102941,291.88102941,108.98116819197
+238,1789,1931,Golf Dr,Morries Moss,Dead End,Signed Shared Roadway,Existing,,,,Memphis,TN,,0.29781743178,,1906,,,,,1572.4760398,1572.4760398,585.642692469478
+239,1790,1932,Overton Park Access,Kenilworth,Morrie Moss,Shared Use Path,Existing,,,,Memphis,TN,,0.0227965031221,,1906,,,,,120.365536484,120.365536484,44.8179650872159
+240,1812,1952,Bearwater Greenline,Hickory,Chelsea,Shared Use Path,Existing,,,,Memphis,TN,,0.485617,,2023,,,,,2564.36969,2564.3696905,958.135959654125
+241,1,1,Mississippi River Greenbelt,Mud Island,AW Willis,Shared Use Path,Existing,,,PARKS,Memphis,TN,,1.38593920977,Secondary,1998,N,,,Local,7317.75902757,7317.75902757,2737.53026712766
+242,3,3,Old Forest Trail,,,Shared Use Path,Existing,,,PARKS,Memphis,TN,OPC WILL PROVIDE DIRT TRAIL GIS DATA WHEN AVAILABLE,2.21273020003,Primary,1998,N,,,Local,11683.2154562,11683.2154562,4358.5585362713
+243,4,4,Shelby Farms Patriot Trail,Vistor's Center,Visitor's Center,Shared Use Path,Existing,,,,Shelby Co,TN,,2.40905503478,Secondary,2016,N,,,,12719.8105836,12719.8105836,4743.38672608285
+244,5,5,Shelby Farms Chickasaw Trail,Silo,Silo,Shared Use Path,Existing,,,,Shelby Co,TN,,2.94326631538,Secondary,2005,N,,,,15540.4461452,15540.4461452,5799.26566305328
+245,6,6,V & E Greenline,Watkins,Springdale,Dirt Trail,Existing,,,VECA,Memphis,TN,,1.70529397277,Primary,1997,N,,,Private,9003.95217622,9003.95217622,3354.95387700915
+246,8,8,Overton Crossing St,St Elmo,Whitney,Signed Shared Roadway,Existing,MEM 30; MEM 60,,2003Routes,Memphis,TN,,1.62920987484,Primary,2003,N,,,Local,8602.22813917,8602.22813917,3220.10210560609
+247,9,9,"Dr. MLK, Jr. Ave",Third,Peabody,Signed Shared Roadway,Existing,MEM 10; MEM 60,,2003Routes,Memphis,TN,,1.64926244936,Primary,2003,N,,,Local,8708.10573262,8708.10573262,3243.37543558358
+248,10,10,Graham St,Chelsea,Macon,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,1.1781236176,Primary,2003,N,,,Local,6220.49270095,6220.49270095,2327.06333321423
+249,11,11,Shady Grove Rd,Mendenhall,Yates,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,1.04989721169,Primary,2003,N,,,Local,5543.45727775,5543.45727775,2063.72061395963
+250,12,12,Shelby Farms Greenline,Tillman,Farm,Shared Use Path,Existing,,,,Shelby Co,TN,,6.62755528666,Primary,2010,N,,,,34993.4919136,34993.4919136,13031.5470269974
+251,14,14,Shelby Farms Greenline Connector,Mullins Station,Chicksaw Trail,Shared Use Path,Existing,,,,Memphis,TN,,0.576793806278,Secondary,2011,N,,,,3045.47129715,3045.47129715,1137.21386526951
+252,15,15,Shelby Farms Greenway Connector,Farm,Wolf River Greenway,Shared Use Path,Existing,,,,Memphis,TN,CHECK WITH SHELBY FARMS ON PROPER NAME FOR THIS TRAIL,1.16422295817,Primary,2011,N,,,,6147.09721913,6147.09721913,2293.68126027555
+253,16,16,Nonconnah Greenway,Forest Hill Irene,TN-385,Shared Use Path,Existing,,,,Shelby Co,TN,,0.695138984511,Secondary,2005,N,,,,3670.33383822,3670.33383822,1368.39685750005
+254,17,17,Wolf River Greenway Phase 2,Walnut Grove,Shady Grove,Shared Use Path,Existing,,,WRG,Memphis,TN,,1.4373435669,Secondary,2011,N,,,Local,7589.17403325,7589.17403325,2832.86552704871
+255,22,22,Dogwood Rd,Elm Row,Forest Hill Irene,Paved Shoulder,Existing,,,,Germantown,TN,,0.968802442727,Primary,0,N,,,,5115.2768976,5115.2768976,1903.59430172958
+256,24,24,Grand Steeple Greenway,Grand Steeple,Poplar,Shared Use Path,Existing,Progress Trail,,,Collierville,TN,,0.597168948285,Secondary,0,Y,,,,3153.05204695,3153.05204695,1176.39863721727
+257,26,26,Wolf River Blvd,Germantown City Limit,Amber Grove,Signed Shared Roadway,Existing,Wolf River Parkway Trail,,,Collierville,TN,,3.18813822751,Secondary,0,N,,,,16833.3698413,16833.3698413,6269.20984617769
+258,27,27,Houston Levee Rd,Winchester,Bailey Station,Bike Lane,Existing,,,,Collierville,TN,,1.20674981233,Secondary,2011,N,,Y,,6371.6390091,6371.6390091,2377.6036085403
+259,28,28,Houston Levee Rd,Wolf River Blvd,Frank,Bike Lane,Existing,,,,Collierville,TN,,1.75740894781,Secondary,0,N,,P,,9279.11924442,9279.11924442,3467.786068643
+260,29,29,Johnson Creek Greenway Phase 1,US-61,Baldwin,Shared Use Path,Existing,,,,DeSoto Co,MS,,2.88342762213,Regional,0,N,,,,15224.4978449,15224.4978449,5653.91104380152
+261,30,30,Magnolia Dr,Goodman,Oak Leaf,Bike Lane,Existing,,,,Olive Branch,MS,,0.576858880754,Primary,0,N,,,,3045.81489038,3045.81489038,1136.51319697997
+262,31,31,Shady Grove Rd,Meadowgrove,Humphreys,Bike Lane,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.497394586087,Primary,2008,N,,,Local,2626.24341454,2626.24341454,978.03899295545
+263,32,32,Wolf River - Walnut Grove Connector,Humphreys,Wolf River Greenway,Shared Use Path,Existing,,,WRG,Memphis,TN,,0.144417081139,Secondary,2010,N,,,Local,762.522188417,762.522188417,284.397889774733
+264,33,33,Walnut Grove Bridge,Wolf River Greenway,Walnut Grove,Shared Use Path,Existing,,,WRG,Memphis,TN,,0.232856124509,Secondary,2008,N,,,Local,1229.48033741,1229.48033741,458.514319464432
+265,34,34,Southern Ave,Cooper,Goodwyn,Bike Lane,Existing,,,ARRA,Memphis,TN,,1.62587675226,Regional,2010,N,,,ARRA,8584.62925195,8584.62925195,3195.2007762422
+266,35,35,Southern Ave,Minor,Goodlett,Bike Lane,Existing,,,ARRA,Memphis,TN,,1.03898173124,Regional,2010,N,,,ARRA,5485.82354094,5485.82354094,2041.91581331824
+267,36,36,New Horn Lake Rd,Rivergate,Peebles,Bike Lane,Existing,,,2010PW,Memphis,TN,,0.823057270377,Regional,2010,N,,,Local,4345.74238759,4345.74238759,1622.15903285461
+268,38,38,Knight Arnold Rd,Boxdale,Castleman,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.665226507285,Secondary,2011,N,,,ARRA,3512.39595846,3512.39595846,1306.44520792137
+269,40,40,Millbranch Rd,Winchester,Riverbrook,Bike Lane,Existing,,,ARRA,Memphis,TN,,2.00332447689,Secondary,2012,N,,,ARRA,10577.553238,10577.553238,3950.961325046
+270,41,41,Ball Rd,Perry,Ketchum,Bike Lane,Existing,,,ARRA,Memphis,TN,,1.10832843968,Regional,2012,N,,,ARRA,5851.97416153,5851.97416153,2177.2494570507
+271,42,42,Waring Rd,Macon,Castle,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.70580995202,Secondary,2011,N,,,ARRA,3726.67654667,3726.67654667,1393.43129813118
+272,43,43,Wells Station Rd,Watts,Macon,Bike Lane,Existing,,,ARRA,Memphis,TN,,1.20183008436,Secondary,2011,N,,,ARRA,6345.66284543,6345.66284543,2374.09485834974
+273,44,44,Ross Rd,Devonshire,Shelby,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.798524120893,Regional,2011,N,,,ARRA,4216.20735832,4216.20735832,1574.60825387313
+274,45,45,Front St,Dr MLK Jr,GE Patterson,Marked Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.519002898522,Secondary,2011,N,,,ARRA,2740.33530419,2740.33530419,1023.89197782779
+275,47,47,McLemore Ave,Kentucky,James,Paved Shoulder,Existing,,,ARRA,Memphis,TN,,2.3199412464,Regional,2011,N,,,ARRA,12249.289781,12249.289781,4559.18149676175
+276,48,48,South Parkway,Lauderdale,College,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.874238259443,Primary,2011,N,,,ARRA,4615.97800986,4615.97800986,1719.24557489931
+277,49,50,Airways Blvd,Democrat,Raines,Bike Lane,Existing,,,STP1,Memphis,TN,,2.36159545864,Regional,2012,N,,,STP-M,12469.2240216,12469.2240216,4657.03717142004
+278,50,51,Park Ave,Airways,Semmes,Bike Lane,Existing,,,STP2,Memphis,TN,,1.32816767254,Primary,2012,N,,,STP-M,7012.72531102,7012.72531102,2609.89919026732
+279,51,52,Semmes St,Baron,Sharpe,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.973327771013,Primary,2011,N,,,ARRA,5139.17063095,5139.17063095,1920.53543366129
+280,52,53,Madison Ave,McNeil,Cooper,Bike Lane,Existing,,,ARRA,Memphis,TN,,1.25131027579,Primary,2011,N,,,ARRA,6606.91825618,6606.91825618,2459.96009663246
+281,53,54,Chelsea Ave,Watkins,Fairfax,Bike Lane,Existing,,,ARRA,Memphis,TN,,2.14520783471,Regional,2011,N,,,ARRA,11326.6973673,11326.6973673,4219.07610247693
+282,54,55,McLean Blvd,North Pkwy,Lamar,Bike Lane,Existing,,,STP3,Memphis,TN,,2.45817113998,Primary,2012,N,,,STP-M,12979.1436191,12979.1436191,4853.5118753075
+283,55,56,Cooper St,Central,Southern,Bike Lane,Existing,,,STP2,Memphis,TN,,0.68305735869,Secondary,2012,N,,,STP-M,3606.54285389,3606.54285389,1348.4848340486
+284,56,57,Goodlett St,South of Grandview,Goodlett Cove,Bike Lane,Existing,MEM 50; MEM 60,,STP2,Memphis,TN,,0.114884436091,Primary,2012,N,,,STP-M,606.589822563,606.589822563,226.794588678119
+285,57,58,Vollintine Ave,Ayers,Bellevue,Signed Shared Roadway,Existing,,,STP3,Memphis,TN,,0.514854134777,Secondary,2011,N,,,STP-M,2718.42983162,2718.42983162,1012.51697785288
+286,58,59,Trinity Rd,Walnut Bend,Sanga,Bike Lane,Existing,,,2011PW,Memphis,TN,,0.854883072824,Primary,2011,N,,,Local,4513.78262451,4513.78262451,1680.62636833492
+287,59,60,Altruria Rd,Memphis Arlington,Stage,Bike Lane,Existing,,,,Bartlett,TN,,1.5629313407,Primary,2010,N,,,,8252.27747892,8252.27747892,3088.26751324142
+288,60,62,Baskin Rd,Whitney,Alta Vista,Bike Lane,Existing,MEM 20; MEM 30,,ARRA,Memphis,TN,,0.555385772734,Primary,2012,N,,,ARRA,2932.43688004,2932.43688004,1095.80924745197
+289,61,63,James Rd,Overton Crossing,McLean,Bike Lane,Existing,MEM 20; MEM 30,,2003Routes,Memphis,TN,,0.525503039409,Secondary,2012,N,,,Local,2774.65604808,2774.65604808,1033.80213957525
+290,62,64,Central Ave,LaFayette,Highland,Bike Lane,Existing,MEM 40; MEM 60,,STP2,Memphis,TN,,0.758874267251,Primary,2012,N,,,STP-M,4006.85613108,4006.85613108,1491.4937054713
+291,63,65,Central Ave,Zach Curlin,Goodlett,Marked Shared Roadway,Existing,MEM 40; MEM 60,,STP1,Memphis,TN,,0.445198023737,Primary,2012,N,,,STP-M,2350.64556533,2350.64556533,874.987304713487
+292,64,72,Kirby Whitten Rd,Old Brownsville,Wind Hill,Bike Lane,Existing,,,,Bartlett,TN,REDRAW Missing road segment in road file,1.03186135014,Secondary,0,N,,Y,,5448.22792876,5448.22792876,2039.16721617243
+293,65,73,Egypt Central Rd,Ellendale,Luther,Bike Lane,Existing,,,,Bartlett,TN,,0.699163872111,Secondary,0,N,,,,3691.58524475,3691.58524475,1376.29147725587
+294,66,74,Wolf River Blvd,Amber Grove,Grey Wolf,Bike Lane,Existing,Wolf River Parkway Trail,,,Collierville,TN,,1.15006914049,Secondary,0,N,,,,6072.36506179,6072.36506179,2264.56135150579
+295,67,75,Houston Levee Rd,Macon,Wolf River Bridge,Paved Shoulder,Existing,,,,Shelby Co,TN,REDRAW Missing up to date roads file - adjust accordingly CHECK SOUTH END terminus,3.84621175848,Secondary,2010,N,,,,20307.9980848,20307.9980848,7589.79028034745
+296,68,76,Robertson Gin Rd,Green Meadow,Wheeler,Signed Shared Roadway,Existing,Lake & Back,,,DeSoto Co,MS,,3.78578511614,Primary,0,N,,,,19988.9454132,19988.9454132,7440.34612707104
+297,69,77,Laughter Rd,Bright,Johnston,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,2.50085276186,Secondary,0,N,,,,13204.5025826,13204.5025826,4915.09232798644
+298,70,78,Craft Rd,Church,Bethel,Signed Shared Roadway,Existing,Craft Rd and Back Trail,,,Olive Branch,MS,,4.10204544616,Secondary,0,N,,,,21658.7999557,21658.7999557,8076.32364221649
+299,80,88,Veterans Pkwy,Bridge over RR,Dakar,Bike Lane,Existing,,,,Millington,TN,FIELD VERIFICATION REQUIRED,1.23494971865,Primary,2013,Y,,,,6520.53451446,6520.53451446,2440.64325760742
+300,81,89,US-64,MPO Boundary,Fayette Co Line,Signed Shared Roadway,Existing,TN 100,,,Fayette non-MPO,TN,PAVED SHOULDER?,17.3270143639,Regional,0,N,,,,91486.6358414,91486.6358414,34135.5007445555
+301,83,91,Spotted Fawn Greenway,Richland View,New Brunswick,Shared Use Path,Existing,,,,Bartlett,TN,,0.262815787005,Secondary,0,N,,,,1387.66735538,1387.66735538,517.454825539394
+302,84,92,Broadway Street Greenway,US-70,Donvalley,Shared Use Path,Existing,,,,Bartlett,TN,,0.453283292466,Secondary,0,N,,,,2393.33578422,2393.33578422,895.484543434834
+303,86,94,Kirby Whitten Rd,Wind Hill,Egypt Central,Signed Shared Roadway,Existing,,,,Bartlett,TN,,0.154151375151,Secondary,0,N,,Y,,813.919260797,813.919260797,304.780912083608
+304,87,95,Luther Rd,Ellendale,Dawnhill,Signed Shared Roadway,Existing,,,,Bartlett,TN,,0.469111338415,Secondary,0,N,,,,2476.90786683,2476.90786683,927.412373673331
+305,90,98,Blackheath Rd,Egypt Central,Daybreak,Signed Shared Roadway,Existing,,,,Bartlett,TN,,0.587395435441,Secondary,0,N,,,,3101.44789913,3101.44789913,1160.03184284923
+306,93,101,Egypt Central Rd,Newstone,Ellendale,Signed Shared Roadway,Existing,,,,Bartlett,TN,,0.324620120883,Secondary,0,N,,,,1713.99423826,1713.99423826,638.945960341162
+307,94,102,Fletcher Trace Pkwy,US-64,Glen Birnie,Bike Lane,Existing,,,,Lakeland,TN,,0.846218846561,Secondary,0,N,,,,4468.03550984,4468.03550984,1668.96481411819
+308,95,103,Fletcher Trace Pkwy,Putter,Davies Plantation,Bike Lane,Existing,,,,Lakeland,TN,,0.17099060564,Secondary,0,N,,,,902.830397777,902.830397777,336.456426420985
+309,96,104,Fletcher Trace,Glen Birnie,Putter,Shared Use Path,Existing,,,,Lakeland,TN,,0.232385765721,Secondary,0,N,,,,1226.99684301,1226.99684301,457.967678639648
+310,97,105,Cool Springs Greenway,Bella Springs,Bella Springs,Shared Use Path,Existing,,,,Lakeland,TN,,0.816941364965,Secondary,0,N,,,,4313.45040702,4313.45040702,1610.20908664844
+311,98,106,Canada Rd Greenway,I-40,US-64,Shared Use Path,Existing,,,,Lakeland,TN,,1.64365999115,Secondary,0,N,,,,8678.52475329,8678.52475329,3248.0357208459
+312,99,107,McIngvale Rd,Pleasant Hill,Green T,Bike Lane,Existing,,,,Hernando,MS,,1.54915818463,Regional,0,N,,,,8179.55521487,8179.55521487,3048.29052159233
+313,100,108,Parkway St,US-51,Mount Pleasant,Bike Lane,Existing,,,,Hernando,MS,,0.763295204237,Primary,0,N,,,,4030.19867837,4030.19867837,1497.19470203775
+314,101,109,Northwood Hills Dr,Timber Creek,US-51,Bike Lane,Existing,,,,Hernando,MS,,0.397911051062,Secondary,0,N,,,,2100.97034961,2100.97034961,780.598507028747
+315,102,110,Robinson St,US-51,Mount Pleasant,Bike Lane,Existing,,,,Hernando,MS,,0.530573396817,Secondary,0,N,,,,2801.42753519,2801.42753519,1038.9760101247
+316,103,111,Cross Country Dr,Old Village,Cross Ridge,Paved Shoulder,Existing,,,,Germantown,TN,,0.909437209923,Primary,0,N,,,,4801.82846839,4801.82846839,1793.53514170949
+317,104,112,Powell Park Trail,Shelton,White,Shared Use Path,Existing,,,,Collierville,TN,,2.58864044864,Primary,0,Y,,,,13668.0215688,13668.0215688,5100.5867063321
+318,106,114,Craft Rd,Cheyenne,Church,Bike Lane,Existing,Craft Rd and Back,,,Olive Branch,MS,,1.32697973088,Secondary,0,N,,,,7006.45297906,7006.45297906,2613.86331011633
+319,107,115,Milton Wlison Blvd,Airline,Chester,Bike Lane,Existing,,,Arlington,Arlington,TN,REDRAW Missing road segment in road line file,1.02417618656,Primary,2012,Y,,Y,STP-M,5407.65026501,5407.65026501,2017.90490487901
+320,108,116,Neshoba Rd,Poplar Estates,Newsum,Paved Shoulder,Existing,,,,Germantown,TN,,0.800720528143,Secondary,0,N,,,,4227.80438859,4227.80438859,1573.43625652186
+321,109,117,Johnson Rd,Wolf River Blvd,Dogwood Estates,Paved Shoulder,Existing,,,,Germantown,TN,,0.390864406353,Secondary,0,N,,,,2063.76406555,2063.76406555,771.37455859378
+322,111,119,Chickasaw Land Trail,Byhalia,Sycamore,Shared Use Path,Existing,,,,Collierville,TN,,0.750847916682,Secondary,0,N,,,,3964.47700008,3964.47700008,1475.44994055459
+323,112,120,Nonconnah Greenway,Houston Levee,Colbert,Shared Use Path,Existing,,,,Collierville,TN,,1.42388928532,Secondary,0,N,,,,7518.1354265,7518.1354265,2798.23374510876
+324,113,121,Nonconnah Greenway,Winchester,Winchester,Shared Use Path,Existing,,,,Collierville,TN,,0.173097184436,Secondary,0,N,,,,913.953133821,913.953133821,340.204722798936
+325,114,122,Halle Park Trail,,,Shared Use Path,Existing,,,,Collierville,TN,,0.85789764777,Secondary,0,N,,,,4529.69958023,4529.69958023,1688.01001314699
+326,115,123,Planters Ridge Trail,Collierville Arlington,Pebble Creek,Shared Use Path,Existing,,,,Collierville,TN,,0.204787884517,Secondary,0,Y,,,,1081.28003025,1081.28003025,403.485910647864
+327,116,124,Collierville Arlington Trail,Shelton,Ashton Woods,Shared Use Path,Existing,,,,Collierville,TN,,0.35059464981,Secondary,0,Y,,,,1851.13975099,1851.13975099,691.296906064472
+328,117,125,Don Valley Greenway,Don Valley,Madison Arthur Byrd Park,Shared Use Path,Existing,,,,Bartlett,TN,,0.473541984343,Secondary,0,N,,,,2500.30167733,2500.30167733,934.084913712731
+329,118,126,Brooks Rd,US-61,US-51,Bike Lane,Existing,,,2011PW,Memphis,TN,,2.02717737077,Secondary,2011,N,,,Local,10703.4965176,10703.4965176,3981.28794264414
+330,119,127,Egypt Central Rd,Blackheath,Newstone,Bike Lane,Existing,,,,Bartlett,TN,,0.596196998096,Secondary,0,N,,,,3147.92014994,3147.92014994,1173.58257178506
+331,120,128,Broadway,Hwy 70,Yale,Bike Lane,Existing,,,,Bartlett,TN,,0.548089414446,Secondary,0,N,,,,2893.91210827,2893.91210827,1082.97799281487
+332,121,129,Knight Arnold Rd,Cherry,Perkins,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.730926502466,Regional,2011,N,,,ARRA,3859.29193302,3859.29193302,1435.60418644353
+333,127,135,Lisa Street Greenway,University,Mountain Terrace,Shared Use Path,Existing,,,PARKS,Memphis,TN,,0.180612809645,Secondary,2005,N,,,Local,953.635634927,953.635634927,355.568933655469
+334,130,138,Watkins St,US-51,Overton Crossing,Bike Lane,Existing,,,STP3,Memphis,TN,,3.28944963222,Regional,2011,N,,,STP-M,17368.2940581,17368.2940581,6496.09476257868
+335,131,139,Raines Rd,Kirby,Riverdale,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.925742966482,Regional,2011,N,,,ARRA,4887.92286302,4887.92286302,1817.46508525139
+336,132,140,Raines Rd,Berrybrook,Ridgeway,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.390319111766,Secondary,2011,N,,,ARRA,2060.88491012,2060.88491012,766.290250560789
+337,135,143,Shelby Farms Greenline East Extension,Farm,B,Shared Use Path,Existing,,NEW2011,Shelby Farms,Shelby Co,TN,,4.11625780449,Regional,2016,N,,,CMAQ,21733.8412077,21733.8412077,8094.87670711648
+338,162,170,Wolf River Greenway Phase 3,Shady Grove,Germantown City Limit,Shared Use Path,Existing,,NEW2011,WRG,Memphis,TN,,0.998468723933,Primary,2012,N,,,Local,5271.91486237,5271.91486237,1964.58730559212
+339,237,264,Yale Rd,Old Brownsville,Bartlett,Bike Lane,Existing,,Funded,,Bartlett,TN,,1.16152836854,Regional,2011,N,,,,6132.86978591,6132.86978591,2286.19064483531
+340,247,276,Highland St,Orchi,Chelsea,Bike Lane,Existing,,Funded,2011PW,Memphis,TN,,0.504545111465,Secondary,2011,N,,,Local,2663.99818854,2663.99818854,996.772121385847
+341,288,320,Goodlett St,Southern,Park,Bike Lane,Existing,,Vision,2016PW,Memphis,TN,,0.575551388992,Secondary,2017,N,,,Local,3038.91133388,3038.91133388,1136.12085565566
+342,294,326,Peabody Ave,Belvedere,Cooper,Signed Shared Roadway,Existing,MEM 10; MEM 60,,2003Routes,Memphis,TN,,0.845159005226,Primary,2003,N,,,Local,4462.43954759,4462.43954759,1661.25869221896
+343,317,354,Cottonwood,Perkins,Mendenhall,Paved Shoulder,Existing,,Vision,2016PW,Memphis,TN,Add Bike Lane,1.13129876828,Primary,2016,N,,,Local,5973.2574965,5973.2574965,2221.95791909302
+344,340,382,Vollintine Ave,Bellevue,Springdale,Bike Lane,Existing,,Vision,Memphis FY2012,Memphis,TN,,1.93618851738,Primary,2017,N,,,,10223.0753718,10223.0753718,3807.57616889413
+345,384,430,Pleasant Hill Rd,Shelby,Holmes,Bike Lane,Existing,,Vision,2012PW,Memphis,TN,,1.05465065547,Secondary,2012,N,,,Local,5568.55546087,5568.55546087,2078.56555649705
+346,409,456,Cleveland St,Overton Park,Peabody,Cycle Track,Existing,,,2014CIP,Memphis,TN,,1.17160873161,Regional,2015,N,,,Local,6186.0941029,6186.0941029,2313.31419663206
+347,449,498,Springdale St,Chelsea,Jackson,Bike Lane,Existing,,Vision,,Memphis,TN,,1.07484368507,Primary,2017,N,,,Local,5675.17465716,5675.17465716,2123.1457202479
+348,451,501,Warford St,I-40,Chelsea,Paved Shoulder,Existing,,Vision,2016PW-2021CIP,Memphis,TN,,1.0038989566,Primary,2021,N,,,Local,5300.58649084,5300.58649084,1982.03648618808
+349,519,577,Old Brownsville Rd,Yale,Fieldcrest,Buffered Bike Lane,Existing,,NEW2011,2016PW,Memphis,TN,New Alignment,0.66877841912,Secondary,2016,N,,,Local,3531.15005295,3531.15005295,1321.04987076747
+350,549,614,Graves Rd,Brooks,Craft,Signed Shared Roadway,Existing,,NEW2011,2015CIP,Memphis,TN,,1.19246332132,Primary,2016,N,,,Local,6296.20633655,6296.20633655,2352.20590453244
+351,654,724,Whitten Rd,Bartlett City Limit,Fletcher Creek,Bike Lane,Existing,,NEW2011,2016CIP,Memphis,TN,,1.41477976442,Primary,2016,N,,,Local,7470.03715612,7470.03715612,2794.80168846883
+352,702,772,Ross Rd,Shelby,Pheasant Place,Bike Lane,Existing,,Vision,2012PW,Memphis,TN,,0.501374735916,Regional,2012,N,,,Local,2647.25860564,2647.25860564,988.544304318445
+353,703,773,Brierview St,Walnut Grove,Shady Grove,Bike Lane,Existing,,,2008PW,Memphis,TN,,0.536423460457,Primary,2008,N,,,Local,2832.31587121,2832.31587121,1058.82028176231
+354,723,794,Houston Levee Rd,North of Tanasi Cv,Southwest of Pisgah,Bike Lane,Existing,,NEW2011,2012PW,Memphis,TN,,0.409387542305,Secondary,2012,N,,,Local,2161.56622337,2161.56622337,807.564980519388
+355,741,813,US-64,Oakland City Limit,Oakland City LImit,Signed Shared Roadway,Existing,TN 100,,,Oakland,TN,PAVED SHOULDER?,8.11287586424,Regional,0,Y,,,,42835.9845632,42835.9845632,15968.0410948096
+356,747,819,Arlington Sports Complex Greenway,Cypress Creek,Milton Wilson Dr,Shared Use Path,Existing,,,,Arlington,TN,,1.25681562434,Secondary,0,Y,,,,6635.98649651,6635.98649651,2480.73661397743
+357,749,821,North Parkway (TN-1),Manassas,Bellevue,Bike Lane,Existing,MEM 10; MEM 20,NEW2011,2003Routes,Memphis,TN,,0.790035466482,Primary,2011,N,,P,Local,4171.38726302,4171.38726302,1553.42335082261
+358,750,822,North Parkway (TN-1),Bellevue,Watkins,Bike Lane,Existing,,NEW2011,2011PW,Memphis,TN,,0.403994298777,Primary,2011,N,,Y,Local,2133.08989754,2133.08989754,794.365946113312
+359,751,823,Island Dr,N Mud Island,A.W. Willis,Signed Shared Roadway,Existing,MEM 20; MEM 60; MRT,,2003Routes,Memphis,TN,,1.5115052385,Primary,2003,N,Y,P,Local,7980.7476593,7980.7476593,2985.72566677624
+360,752,824,AW Willis Ave,Second,US-51,Marked Shared Roadway,Existing,MEM 10; MEM 20,,2003Routes; MANI 2MAIN,Memphis,TN,,0.682127026766,Primary,2015,N,,,Local,3601.63070132,3601.63070132,1341.49069322223
+361,755,827,James Rd,Hollywood,Highland,Signed Shared Roadway,Existing,MEM 30; MEM 40,,2003Routes,Memphis,TN,,1.77311862222,Primary,2003,N,,P,Local,9362.06632534,9362.06632534,3488.31475218256
+362,756,829,Raleigh Millington Rd,North of Fite,Loosahatchie River,Signed Shared Roadway,Existing,,,,Shelby Co,TN,,0.780080215094,Regional,2011,N,,,,4118.82353569,4118.82353569,1542.80152932307
+363,757,830,Highland St,James,Orchi,Paved Shoulder,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,1.21169292581,Primary,2011,N,,,Local,6397.7386483,6397.7386483,2394.14127980532
+364,759,832,Byhalia Rd,Shelby,Estanaula,Signed Shared Roadway,Existing,,,,Collierville,TN,,0.770919199444,Secondary,0,N,,,,4070.45337306,4070.45337306,1519.96436905365
+365,761,834,Ross Rd,Winchester,Birch Run,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.575197653327,Primary,2011,N,,,ARRA,3037.04360957,3037.04360957,1134.48438157414
+366,762,835,Ross Rd,Birch Run,Devonshire,Marked Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.633538568007,Regional,2011,N,,,ARRA,3345.08363908,3345.08363908,1249.31775563816
+367,763,836,Airways Blvd,Raines,Shelby,Bike Lane,Existing,,NEW2011,2011PW,Memphis,TN,,1.00195531485,Regional,2011,N,,,Local,5290.3240624,5290.3240624,1975.8075111494
+368,764,837,Semmes St,Southern,Park,Signed Shared Roadway,Existing,,,"ARRA
+ARRA",Memphis,TN,,0.524611314383,Primary,2011,N,,,ARRA,2769.94773994,2769.94773994,1035.5635214194
+369,765,838,Semmes St,Park,Baron,Paved Shoulder,Existing,,,ARRA,Memphis,TN,,0.557026686327,Primary,2011,N,,,ARRA,2941.10090381,2941.10090381,1099.23488748533
+370,766,839,Trinity Rd,Germantown,Walnut Bend,Bike Lane,Existing,,,2011PW,Memphis,TN,,0.648273589544,Primary,2011,N,,,Local,3422.88455279,3422.88455279,1274.45762525315
+371,767,840,Swinnea Rd,Winchester,Shelby,Bike Lane,Existing,,NEW2011,STP1,Memphis,TN,,2.19070132053,Secondary,2012,N,,,STP-M,11566.9029724,11566.9029724,4320.39387096466
+372,768,843,Clarke Rd,Winchester,Myers,Signed Shared Roadway,Existing,,NEW2011,STP1,Memphis,TN,,0.329303528507,Secondary,2013,N,,,STP-M,1738.72263052,1738.72263052,649.467636818825
+373,770,845,Poplar Pike,Massey,Kirby Rd,Signed Shared Roadway,Existing,,,STP2,Memphis,TN,,0.389737586874,Regional,2012,N,,,STP-M,2057.81445869,2057.81445869,766.133401003664
+374,771,846,Shelby Oaks,Raleigh Lagrange,Sycamore View,Marked Shared Roadway,Existing,,NEW2011,STP2,Memphis,TN,,1.32161925997,Secondary,2011,N,,,STP-M,6978.14969265,6978.14969265,2606.2180713988
+375,772,847,Shelby Oaks,US-70,Sycamore View,Marked Shared Roadway,Existing,,NEW2011,2014CIP,Memphis,TN,,0.960285462001,Secondary,2015,N,,,Local,5070.30723937,5070.30723937,1891.08380322595
+376,774,849,Waverly Farms Rd,Raleigh Millington,Greenside,Bike Lane,Existing,,,,Shelby Co,TN,,0.767244342542,Secondary,2011,N,,,,4051.05012862,4051.05012862,1511.42161544792
+377,786,861,Riverdale Rd,Kelsey Woods,Neshoba,Paved Shoulder,Existing,,,,Germantown,TN,,0.678490325069,Primary,0,N,,,,3582.42891636,3582.42891636,1339.27449088932
+378,787,862,Cordova Rd,Hollow Fork,Neshoba,Bike Lane,Existing,,,,Germantown,TN,,0.473369036204,Primary,0,N,,,,2499.38851116,2499.38851116,934.108579662604
+379,788,863,Neshoba Rd,Exeter,Kimbrough,Paved Shoulder,Existing,,,,Germantown,TN,,0.533022895804,Primary,0,N,,,,2814.36088985,2814.36088985,1047.31698101593
+380,789,864,Miller Farms Rd,Dove Field,Hollow Fork,Paved Shoulder,Existing,,,,Germantown,TN,,0.13921091627,Primary,0,N,,,,735.033637904,735.033637904,274.383983523269
+381,790,865,Miller Farms Rd,Hollow Fork,Neshoba,Paved Shoulder,Existing,,,,Germantown,TN,,0.502889867944,Primary,0,N,,,,2655.25850275,2655.25850275,992.10551211893
+382,791,866,Neshoba Rd,Old Mill,Cordova,Paved Shoulder,Existing,,,,Germantown,TN,,0.183731162101,Primary,0,N,,,,970.100535892,970.100535892,361.015877099219
+383,792,867,Hollow Fork,Miller Farms,Cordova,Paved Shoulder,Existing,,,,Germantown,TN,,0.271471763999,Secondary,0,N,,,,1433.37091392,1433.37091392,533.795992828347
+384,793,868,Neshoba Rd,Newsum,Old Mill,Signed Shared Roadway,Existing,,,,Germantown,TN,,0.262334288476,Secondary,0,N,,,,1385.12504315,1385.12504315,516.472593492265
+385,794,869,Brierbrook Rd,Farmingdale,Poplar,Paved Shoulder,Existing,,,,Germantown,TN,,1.28606931471,Primary,0,N,,,,6790.44598168,6790.44598168,2537.02158815255
+386,795,870,Miller Farms Rd,Neshoba,Poplar,Paved Shoulder,Existing,,,,Germantown,TN,,0.563618809155,Primary,0,N,,,,2975.90731234,2975.90731234,1111.91176441025
+387,796,871,Riverdale Rd,Poplar Pike,McVay,Bike Lane,Existing,,,,Germantown,TN,,0.670055957064,Primary,0,N,,,,3537.8954533,3537.8954533,1321.89359761893
+388,797,872,Poplar Pike,Ole Pike,Oakleigh,Paved Shoulder,Existing,,,,Germantown,TN,,0.674226104029,Primary,0,N,,,,3559.91382927,3559.91382927,1324.94690574869
+389,798,873,Farmingdale Rd,Brierbrook,Kimbrough,Paved Shoulder,Existing,,,,Germantown,TN,,0.3630920075,Primary,0,N,,,,1917.1257996,1917.1257996,713.530227904947
+390,799,874,Allenbay Rd,Farmington,Willow Oak,Paved Shoulder,Existing,,,,Germantown,TN,,0.453205198169,Primary,0,N,,,,2392.92344633,2392.92344633,894.315846848394
+391,800,875,Farmington Rd,Brierbrook,Wolf River Blvd,Paved Shoulder,Existing,,,,Germantown,TN,,1.90155924718,Primary,0,N,,,,10040.2328251,10040.2328251,3737.65000021931
+392,801,876,Cordes Rd,Farmington,Dogwood,Paved Shoulder,Existing,,,,Germantown,TN,,0.837788072586,Primary,0,N,,,,4423.52102326,4423.52102326,1653.08514101985
+393,802,877,Corbin Rd,Cordes,Farmington,Paved Shoulder,Existing,,,,Germantown,TN,,0.639448853249,Secondary,0,N,,,,3376.28994515,3376.28994515,1259.44069284949
+394,803,878,Cordova Rd,Charstone,Hollow Fork,Paved Shoulder,Existing,,,,Germantown,TN,,0.15821987188,Secondary,0,N,,,,835.400923525,835.400923525,312.110296661913
+395,805,880,Hacks Cross Rd,CD Smith,Memphis City Limit,Paved Shoulder,Existing,,,,Germantown,TN,,0.704250737835,Primary,0,N,,,,3718.44389577,3718.44389577,1389.15970231397
+396,806,881,Farindon Rd,Cross Country,Hacks Cross,Paved Shoulder,Existing,,,,Germantown,TN,,0.460136489296,Secondary,0,N,,,,2429.52066348,2429.52066348,903.762475657342
+397,807,882,Cordova Rd,Neshoba,Willey,Paved Shoulder,Existing,,,,Germantown,TN,,0.179763542186,Secondary,0,N,,,,949.15150274,949.15150274,354.557052732711
+398,827,903,McLean Blvd,Hunter,Tutwiler,Bike Lane,Existing,MEM20; MEM40,,STP3; 2003Routes,Memphis,TN,,1.03206515838,Primary,2011,N,,,STP-M,5449.30403626,5449.30403626,2038.41622839053
+399,835,911,Hornsby Dr,Wilson,Holmes,Paved Shoulder,Existing,,NEW2011,2016PW,Memphis,TN,,0.516134574618,Secondary,2015,N,,,Local,2725.19055398,2725.19055398,1017.35082799722
+400,857,934,Appling Farms Pkwy,Whitten,Appling,Bike Lane,Existing,,NEW2011,2013PW,Memphis,TN,,1.50838496918,Primary,2013,N,,,Local,7964.27263729,7964.27263729,2970.44804855897
+401,876,954,Old Hwy 61,Hwy 161,Green River Rd,Signed Shared Roadway,Existing,Great River Road,,,DeSoto Co,MS,,12.909097409,Regional,0,N,,,,68160.0343198,68160.0343198,25362.2896030292
+402,877,955,Bass Landing Rd,Mississippi River,Old Hwy 61,Signed Shared Roadway,Existing,Great River Road,,,DeSoto Co,MS,VERIFY MRT ROUTE,1.52126611085,Secondary,2012,N,,,,8032.28506529,8032.28506529,2986.12200677024
+403,885,963,Robertson Gin Rd,Oak Grove,Green Village,Signed Shared Roadway,Existing,Lake & Back,,,Hernando,MS,,1.80470832205,Primary,0,N,,,,9528.8599404,9528.8599404,3542.18333910233
+404,886,964,McCracken Rd,Commerce,Hernando City Limit,Signed Shared Roadway,Existing,Lake & Back,,,Hernando,MS,,1.32783652433,Primary,0,N,,,,7010.97684844,7010.97684844,2610.5041036363
+405,887,965,McCracken Rd,Hernando City Limit,Slocum,Signed Shared Roadway,Existing,Lake & Back,,,DeSoto Co,MS,,1.97154172796,Primary,0,N,,,,10409.7403236,10409.7403236,3875.18450735307
+406,888,966,Slocum Rd,Belmont,McCracken,Signed Shared Roadway,Existing,Lake & Back,,,DeSoto Co,MS,,0.752201171326,Primary,0,N,,,,3971.6221846,3971.6221846,1472.09181251069
+407,889,967,Belmont Rd,US-51,Slocum,Signed Shared Roadway,Existing,Lake & Back,,,DeSoto Co,MS,,0.762214501666,Primary,0,N,,,,4024.4925688,4024.4925688,1495.45095851956
+408,890,968,Bright Rd,Jaybird,Malone,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,2.01357966656,Secondary,0,N,,,,10631.7006395,10631.7006395,3943.91573992871
+409,891,969,Lakewood Dr,Woodhills,Homewood,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.964530476979,Primary,2003,N,Y,,Local,5092.72091845,5092.72091845,1900.95778988749
+410,933,1011,Peabody Ave,Waldran,Belvedere,Signed Shared Roadway,Existing,MEM 10; MEM 60,,2003Routes,Memphis,TN,,1.01778550808,Primary,2003,N,,,Local,5373.90748266,5373.90748266,2000.59764263708
+411,934,1012,Peabody Ave,Peabody,Dr MLK Jr,Bike Lane,Existing,,,2012PW,Memphis,TN,,0.247724653612,Primary,2012,N,,,Local,1307.98617107,1307.98617107,486.975898552116
+412,936,1014,Ball Rd,Norris,Perry,Paved Shoulder,Existing,,,ARRA,Memphis,TN,,0.257574839076,Regional,2012,N,,,ARRA,1359.99515032,1359.99515032,506.432371704328
+413,937,1015,Delano Rd,Stage-Delano,Overton Crossing,Marked Shared Roadway,Existing,MEM 20; MEM 30,,ARRA,Memphis,TN,,0.690439656868,Primary,2012,N,,,ARRA,3645.52138826,3645.52138826,1358.77365178576
+414,938,1016,James Rd,McLean,Hollywood,Signed Shared Roadway,Existing,MEM 30; MEM 40,,2003Routes,Memphis,TN,,1.10468601082,Primary,2012,N,,,Local,5832.74213712,5832.74213712,2173.76164182736
+415,939,1017,Houston Levee Rd,US-64,Plum Creek,Bike Lane,Existing,,NEW2011,2012PW,Memphis,TN,,0.715876132806,Secondary,2012,N,,,Local,3779.82598121,3779.82598121,1413.02796284056
+416,940,1018,Houston Levee Rd,Plum Creek,North of Tanasi Cv,Paved Shoulder,Existing,,NEW2011,2012PW,Memphis,TN,,0.34695491815,Secondary,2012,N,,,Local,1831.92196783,1831.92196783,685.408521186445
+417,941,1019,Houston Levee Rd,West of Lenow,Memphis City Limit,Paved Shoulder,Existing,,NEW2011,2012PW,Memphis,TN,,0.0751060940639,Secondary,2012,N,,,Local,396.560176658,396.560176658,148.070398376156
+418,942,1020,Range Line Rd,Corning,Frayer,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.211381871677,Primary,2003,N,,,Local,1116.09628245,1116.09628245,417.834211434503
+419,943,1021,St. Elmo Ave,Overton Crossing,Range Line,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,1.04355927487,Primary,2003,N,,,Local,5509.99297129,5509.99297129,2054.1205872915
+420,947,1025,North Second St,Whitney,Mud Island,Signed Shared Roadway,Existing,MEM 20; MEM 60; MRT,,2003Routes,Memphis,TN,,0.944913953023,Primary,2003,N,,,Local,4989.14567196,4989.14567196,1865.49989873443
+421,948,1026,N Mud Island Dr,Island,N Second,Signed Shared Roadway,Existing,MEM 20; MEM 60; MRT,,2003Routes,Memphis,TN,,0.671366507248,Primary,2003,N,Y,,Local,3544.81515827,3544.81515827,1321.73584568601
+422,949,1027,AW Willis Ave,Island,Front,Signed Shared Roadway,Existing,MEM 20; MEM 60; MRT,,2003Routes,Memphis,TN,,0.400737969103,Primary,2003,N,Y,,Local,2115.89647687,2115.89647687,788.340974324552
+423,950,1028,Millbranch Rd,Nonconnah,Brooks,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.690861532679,Secondary,2012,N,,Y,ARRA,3647.74889254,3647.74889254,1362.8609987036
+424,951,1029,Millbranch Rd,Brooks,Winchester,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.501533923884,Secondary,2012,N,,,ARRA,2648.09911811,2648.09911811,989.351562091894
+425,952,1031,Central Ave,Highland,Patterson,Marked Shared Roadway,Existing,MEM 40; MEM 60,,STP2,Memphis,TN,,0.278807170407,Primary,2012,N,,,STP-M,1472.10185975,1472.10185975,547.967933428125
+426,953,1032,Craigmont Rd,Covington Pike,Old Brownsville,Signed Shared Roadway,Existing,,,2012PW,Memphis,TN,,0.688744861647,,2012,N,Y,,Local,3636.5728695,3636.5728695,1355.6056650224
+427,954,1033,Raines Rd,Millbranch,Airways,Signed Shared Roadway,Existing,,Funded,2012PW,Memphis,TN,,1.0034846241,Regional,2012,N,,,Local,5298.39881526,5298.39881526,1970.09626128264
+428,955,1034,Adams Ave,US-51,Jefferson,Marked Shared Roadway,Existing,,,2012PW,Memphis,TN,,0.843800714035,,2012,,,,Local,4455.2677701,4455.2677701,1659.57598082528
+429,956,1035,Manassas St,Union,Dr MLK Jr,Cycle Track,Existing,,,2016PW,Memphis,TN,,0.229434002283,,2017,,,,Local,1211.41153206,1211.41153206,452.647061885578
+430,957,1036,Front St,AW Willis,Jefferson,Bike Lane,Existing,MEM 10; MEM 60; MRT,,2015CIP,Memphis,TN,,0.7179851124,Primary,2015,N,,,Local,3790.96139347,3790.96139347,1417.37666973776
+431,958,1037,"Dr. MLK, Jr. Ave",Front,Third,Bike Lane,Existing,MEM 10; MEM 60,,2012PW,Memphis,TN,,0.269633566088,,2012,,,,Local,1423.66522894,1423.66522894,530.705555108238
+432,959,1038,Riverside Dr,Jefferson,Beale,Signed Shared Roadway,Existing,MEM 10; MEM 60; MRT,,2003Routes,Memphis,TN,,0.503916762317,Primary,2003,N,,,Local,2660.68050503,2660.68050503,994.313093152974
+433,960,1039,Jefferson Ave,Riverside,Front,Signed Shared Roadway,Existing,MEM 10; MEM 60; MRT,,2003Routes,Memphis,TN,,0.0605793888081,Primary,2003,N,Y,,Local,319.859172907,319.859172907,119.147250132917
+434,961,1040,Beale St,Riverside,Front,Signed Shared Roadway,Existing,MEM 10; MEM 60,,2003Routes,Memphis,TN,,0.113075515547,Primary,2003,N,,,Local,597.038722087,597.038722087,222.406589753125
+435,962,1041,Galloway Dr,Evergreen,McLean,Signed Shared Roadway,Existing,MEM 40,,2003Routes,Memphis,TN,,0.255150339953,Primary,2003,N,Y,,Local,1347.19379495,1347.19379495,501.675179758304
+436,963,1042,Tutwiler St,Evergreen,McLean,Signed Shared Roadway,Existing,MEM 20; MEM 30; MEM 40,,2003Routes,Memphis,TN,,0.2545929431,Primary,2003,N,Y,,Local,1344.25073957,1344.25073957,500.605980559203
+437,965,1044,Bellevue Ave,N Parkway,Overton Park,Signed Shared Roadway,Existing,MEM 10; MEM 20,,2003Routes,Memphis,TN,,0.297022111571,Primary,2003,N,,,Local,1568.27674909,1568.27674909,586.571089275235
+438,966,1045,Overton Park Ave,Cleveland,Evergreen,Signed Shared Roadway,Existing,MEM 10; MEM 20,,2003Routes,Memphis,TN,,0.66541027037,Primary,2003,N,,,Local,3513.36622756,3513.36622756,1308.26732329378
+439,968,1047,Central Ave,Belvedere,Goodwyn,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,1.65576090331,Primary,2003,N,,,Local,8742.41756947,8742.41756947,3255.00137256941
+440,969,1048,Central Ave,Patterson,Zach Curlin,Bike Lane,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.386690972796,Primary,2015,N,,,Local,2041.72833636,2041.72833636,760.000594915704
+441,971,1050,Goodlett St,Goodlett Cv,Southern,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.0550916324689,Primary,2003,N,,,Local,290.883819436,290.883819436,108.75535743387
+442,973,1052,Macon Rd,Graham,Graham,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.0474067920235,Primary,2003,N,,,Local,250.307861884,250.307861884,93.2184587583757
+443,974,1053,Orchi Rd,Highland,Jackson,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.452806623528,Primary,2003,N,,,Local,2390.81897223,2390.81897223,892.082960968916
+444,975,1054,Orchi Rd,Jackson,Chelsea,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.153320776665,Primary,2003,N,,,Local,809.533700792,809.533700792,302.1221394413
+445,976,1055,Jackson Ave,Orchi,Orchi,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.027920667905,Primary,2003,N,,,Local,147.421126538,147.421126538,55.0639050409119
+446,977,1056,James Rd,Highland,Epping Way,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.320812301639,Primary,2003,N,,,Local,1693.88895266,1693.88895266,631.409782411892
+447,978,1057,Epping Way Dr,James,Stage-James,Signed Shared Roadway,Existing,MEM 30; MEM 60,,2003Routes,Memphis,TN,,0.354867411622,Primary,2003,N,Y,,Local,1873.69993337,1873.69993337,700.773695361249
+448,979,1058,Scenic Hwy,Epping Way,Woodhills,Signed Shared Roadway,Existing,MEM 30; MEM 60,,2003Routes,Memphis,TN,,0.275763672187,Primary,2003,N,,,Local,1456.03218915,1456.03218915,542.678543169969
+449,980,1059,Woodhills Dr,Lakewood,James,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003ROUTES,Memphis,TN,,0.641480398754,Primary,2003,N,Y,,Local,3387.01650542,3387.01650542,1265.81206296495
+450,981,1060,Raleigh-Millington Rd,Frayser,Homewood,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.199989941458,Primary,2003,N,,,Local,1055.9468909,1055.9468909,395.096854466938
+451,982,1061,Homewood Dr,Raleigh-Millington,Lakewood,Signed Shared Roadway,Existing,MEM 30; MEM 60,,2003Routes,Memphis,TN,,0.0774036750702,Primary,2003,N,,,Local,408.691404371,408.691404371,152.796565546208
+452,983,1062,Cherry Rd,Southern,Park,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.590189007399,Primary,2003,N,Y,,Local,3116.19795907,3116.19795907,1164.78854970649
+453,984,1063,Park Ave,Cherry,Cherry,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.165156258993,Primary,2003,N,,,Local,872.025047481,872.025047481,324.53317256653
+454,985,1064,Cherry Rd,Park,Willow,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,1.47561032961,Primary,2003,N,,,Local,7791.22254036,7791.22254036,2912.12437128141
+455,988,1067,Quince Rd,White Station,Messick,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,2.47410865944,Primary,2003,N,,,Local,13063.2937218,13063.2937218,4863.915850018
+456,989,1068,Messick Rd,Quince,Kirby Pkwy,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.675180573869,Primary,2003,N,,,Local,3564.95343003,3564.95343003,1326.40229220745
+457,990,1070,Humphreys Blvd,Shady Grove,Kirby,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.628443002928,Primary,2003,N,,Y,Local,3318.17905546,3318.17905546,1236.5906707831
+458,991,1071,Tuckahoe Rd,Goodlett,Grove Park,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.991527906789,Primary,2003,N,,,Local,5235.26734784,5235.26734784,1950.37877717375
+459,992,1072,Perkins Rd,Shady Grove,Shady Grove,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.0178622973585,Primary,2003,N,,,Local,94.312930053,94.312930053,35.2653178276129
+460,993,1073,Shady Grove Rd,Grove Park,Perkins,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.340689618048,Primary,2003,N,,,Local,1798.84118329,1798.84118329,670.150491171603
+461,994,1074,Grove Park Rd,Tuckahoe,Shady Grove,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.0413773908124,Primary,2003,N,,,Local,218.47262349,218.47262349,81.5643034744129
+462,996,1076,Front St,Union,Beale,Marked Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.213953657275,Secondary,2011,N,,,ARRA,1129.67531041,1129.67531041,422.273477277231
+463,997,1077,Front St,Beale,Dr MLK Jr,Marked Shared Roadway,Existing,MEM 10; MEM 60,,ARRA,Memphis,TN,,0.0945311668211,Secondary,2011,N,,,ARRA,499.124560815,499.124560815,186.377262432166
+464,998,1078,Peabody Ave,Dr MLK Jr,Waldran,Bike Lane,Existing,MEM 10; MEM 60,,2003ROUTES; 2012PW,Memphis,TN,,0.152556351851,Primary,2012,N,,,Local,805.497537773,805.497537773,299.869279823311
+465,999,1079,McLean Blvd,Tutwiler,North Pkwy,Bike Lane,Existing,,,STP3,Memphis,TN,,0.168494411853,Primary,2011,N,,,STP-M,889.650494582,889.650494582,332.758968007128
+466,1000,1080,Cooper St,Peabody,Central,Signed Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.393342959975,,2003,,,,Local,2076.85082867,2076.85082867,776.610206916956
+467,1001,1081,Goodlett St,Walnut Grove,Tuckahoe,Bike Lane,Existing,MEM 40; MEM 60,,ARRA,Memphis,TN,,0.456769536415,Primary,2012,N,,,ARRA,2411.74315227,2411.74315227,901.832520557274
+468,1002,1082,Goodlett St,Tuckahoe,Central,Signed Shared Roadway,Existing,MEM 40; MEM 50,,ARRA,Memphis,TN,,0.153790998709,Primary,2012,N,,,ARRA,812.016473186,812.016473186,303.624052439601
+469,1003,1083,Southern Ave,Goodlett,Cherry,Bike Lane,Existing,MEM 50; MEM 60,,ARRA,Memphis,TN,,0.475791643655,Regional,2010,N,,,ARRA,2512.1798785,2512.1798785,935.032070963136
+470,1004,1084,Southern Ave,Cherry,Perkins Ext,Bike Lane,Existing,,,"ARRA
+ARRA",Memphis,TN,,0.457626167435,Regional,2010,N,,,ARRA,2416.26616406,2416.26616406,899.336291338934
+471,1005,1085,Central Ave,Goodwyn,Lafayette,Marked Shared Roadway,Existing,MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.198143151249,Primary,2012,N,,,Local,1046.19583859,1046.19583859,389.432859731499
+472,1006,1087,Broad Ave,Hollywood,Collins,Cycle Track,Existing,,,MEMfix,Memphis,TN,,0.297308271796,Primary,2010,N,,,Private,1569.78767508,1569.78767508,584.545353841706
+473,1007,1088,Shady Grove Rd,Perkins,Mendenhall,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.688517156866,Primary,2003,N,Y,,Local,3635.37058825,3635.37058825,1353.56054072927
+474,1008,1089,Main St,Carolina,Crump,Marked Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.242174611631,,2012,,,,ARRA,1278.68194941,1278.68194941,478.132794258549
+475,1009,1090,Winchester Rd,Clarke,Hickory Hill,Bike Lane,Existing,,,STP1,Memphis,TN,,0.488476328002,Regional,2013,N,,,STP-M,2579.15501185,2579.15501185,959.182655718451
+476,1010,1091,Appling Rd,I-40,Dexter,Bike Lane,Existing,,Funded,2013PW,Memphis,TN,,0.948207262859,Regional,2013,N,,,Local,5006.53434789,5006.53434789,1872.96974051798
+477,1011,1092,Appling Rd,Appling Farms,I-40,Signed Shared Roadway,Existing,,,2013PW,Memphis,TN,,0.229134161673,,2013,,,,Local,1209.82837364,1209.82837364,452.627846058308
+478,1012,1093,Appling Rd,US-64,Appling Farms,Bike Lane,Existing,,,2013PW,Memphis,TN,,1.09541595014,,2013,,,,Local,5783.79621675,5783.79621675,2164.50326852802
+479,1013,1094,Wolf River Blvd,Kimbrough,Farmington,Buffered Bike Lane,Existing,,NEW2011,,Germantown,TN,,1.84320680108,Primary,2013,N,,,,9732.13190968,9732.13190968,3625.25034214426
+480,1014,1095,Overton Park Ave,Bellevue,Cleveland,Cycle Track,Existing,MEM 10; MEM 20,,2003Routes,Memphis,TN,,0.334824469898,Primary,2013,N,,,Local,1767.87320106,1767.87320106,658.323615402264
+481,1015,1096,Claybrook St,Autumn,Overton Park,Bike Lane,Existing,,,2013PW,Memphis,TN,,0.104021375279,,2013,,,,Local,549.232861475,549.232861475,205.420664271814
+482,1016,1097,Autumn Ave,Bellevue,Montgomery,Bike Lane,Existing,,,2013PW,Memphis,TN,,0.0979225933022,,2013,,,,Local,517.031292636,517.031292636,192.534923502639
+483,1017,1098,Autumn Ave,Montgomery,Claybrook,Marked Shared Roadway,Existing,,,2013PW,Memphis,TN,,0.122824527545,,2013,,,,Local,648.513505439,648.513505439,241.496339135743
+484,1018,1099,Autumn Ave,Claybrook,Cleveland,Bike Lane,Existing,,,2013PW,Memphis,TN,,0.136605661224,,2013,,,,Local,721.277891261,721.277891261,268.590736849061
+485,1023,1105,Danny Thomas Blvd (TN-1),Alabama,EH Crump,Cycle Track,Existing,,NEW2014,2014TDOT,Memphis,TN,,1.91052511609,,2014,,,,TDOT,10087.572613,10087.572613,3770.97122295088
+486,1027,1109,Altruria Rd,Egypt Central,St Elmo,Bike Lane,Existing,,,,Bartlett,TN,,0.901093344604,Secondary,2010,N,,,,4757.77285951,4757.77285951,1781.01654238901
+487,1029,1111,North Parkway (TN-1),US-51,Manassas,Signed Shared Roadway,Existing,MEM 10; MEM 20,,2003Routes,Memphis,TN,,0.232293536142,Primary,2003,N,,,Local,1226.50987083,1226.50987083,456.744637299917
+488,1030,1112,Richland View Greenway,Richland View,Richland Ridge,Shared Use Path,Existing,,,,Bartlett,TN,,0.069855155389,,0,,,,,368.835220454,368.835220454,137.517150792765
+489,1031,1113,Delano Rd,Alta Vista,Stage-Delano,Signed Shared Roadway,Existing,MEM 20; MEM 30,,ARRA,Memphis,TN,,0.177168831305,Primary,2012,N,,,ARRA,935.451429291,935.451429291,349.603393029709
+490,1032,1114,Dogwood Rd,Kimbrough,Yester Oaks,Paved Shoulder,Existing,,,,Germantown,TN,,0.706850133463,Primary,0,N,,,,3732.16870468,3732.16870468,1388.64765723093
+491,1033,1115,Dogwood Rd,Yester Oaks,Elm Row,Signed Shared Roadway,Existing,,,,Germantown,TN,,0.174503998113,Primary,0,N,,,,921.381110036,921.381110036,343.044044314731
+492,1034,1116,Frayser Blvd,Range Line,Warford,Signed Shared Roadway,Existing,MEM 30; MEM 60,,2003Routes,Memphis,TN,,0.703560499168,Regional,2003,N,,,Local,3714.79943561,3714.79943561,1384.49876980477
+493,1037,1119,Knight Arnold Rd,Inverness Parkway,Hickory Hill,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.130400590308,Secondary,2011,N,,,ARRA,688.515116825,688.515116825,256.090423114692
+494,1038,1120,Knight Arnold Rd,Clarke,Inverness Parkway,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.441063083753,Secondary,2011,N,,,ARRA,2328.81308221,2328.81308221,866.19519253162
+495,1039,1121,Knight Arnold Rd,Kings Arms,Clarke,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.0632302193733,Secondary,2011,N,,,ARRA,333.855558291,333.855558291,124.176715522969
+496,1040,1122,Knight Arnold Rd,Emerald,Kings Arms,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.221148292543,Secondary,2011,N,,,ARRA,1167.66298462,1167.66298462,434.347749085032
+497,1041,1123,Knight Arnold Rd,Castleman,Emerald,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.616696299233,Secondary,2011,N,,,ARRA,3256.15645995,3256.15645995,1211.23366443408
+498,1042,1124,Knight Arnold Rd,Perkins,Boxdale,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.125015992363,Secondary,2011,N,,,ARRA,660.084439679,660.084439679,245.520865068273
+499,1043,1125,Ranch Rd,Robertson Gin,US-51,Signed Shared Roadway,Existing,Lake & Back,,,DeSoto Co,MS,,2.01910904553,,0,,,,,10660.8957604,10660.8957604,3951.10021308687
+500,1044,1126,Oak Leaf Dr,Alexander,Magnolia,Bike Lane,Existing,,,,Olive Branch,MS,,0.167656185047,,0,,,,,885.224657051,885.224657051,328.820142488636
+501,1045,1127,Alexander Rd,Goodman,Oak Leaf,Bike Lane,Existing,,,,Olive Branch,MS,,0.615896732164,,0,,,,,3251.93474582,3251.93474582,1212.88531545695
+502,1046,1128,Olive Branch Greenway,,,Shared Use Path,Existing,,,,Olive Branch,,REDRAW TO AERIALS,0.58472582541,,0,,,,,3087.35235816,3087.35235816,1149.39390592653
+503,1047,1129,Harpers Ferry Greenway,Ashton Woods,Travelers,Shared Use Path,Existing,Progress Road Trail,,,Collierville,TN,,0.583273202355,,0,,,,,3079.68250843,3079.68250843,1147.03249095161
+504,1048,1130,Tara Woods Greenway,Harpers Ferry,Belle Watley,Shared Use Path,Existing,Progress Road Trail,,,Collierville,TN,,0.172172279733,,0,,,,,909.06963699,909.06963699,339.398096338464
+505,1049,1131,Raleigh Millington Rd,South of Duncan,North of Fite,Bike Lane,Existing,,,,Shelby Co,TN,CHECK - lane exists but no marking or signs except <bike> Begin / End signs at either end of facility,0.466677393082,Regional,2011,,,,,2464.05663547,2464.05663547,922.393132666844
+506,1050,1132,Raleigh Millington Rd,North of Duncan,South of Duncan,Signed Shared Roadway,Existing,,,,Shelby Co,TN,,0.150762679452,Regional,2011,,,,,796.026947505,796.026947505,297.659276747623
+507,1051,1133,Raleigh Millington Rd,South of Waverly Farms,North of Duncan,Bike Lane,Existing,,,,Shelby Co,TN,CHECK - lane exists but no marking or signs except <bike> Begin / End signs at either end of facility,0.444146611112,Regional,2011,,,,,2345.09410667,2345.09410667,877.980514806164
+508,1052,1134,Raleigh Millington Rd,Amherst,South of Waverly Farms,Signed Shared Roadway,Existing,,,,Shelby Co,TN,,0.208629260267,Regional,2011,,,,,1101.56249421,1101.56249421,412.652248426251
+509,1053,1135,Range Line Rd,St Elmo,Melissa,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.518049699977,PRimary,2003,,,,Local,2735.30241588,2735.30241588,1024.09888136529
+510,1054,1136,Slocum Rd,McCracken,McCracken,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,0.187086990909,Secondary,0,N,,,,987.819311998,987.819311998,366.136156789144
+511,1055,1137,McCracken Rd,Slocum,Love,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,2.12316411114,Secondary,0,N,,,,11210.3065068,11210.3065068,4170.28191847362
+512,1056,1138,Love Rd,McCracken,Grays Creek,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,1.90138996539,Secondary,0,N,,,,10039.3390173,10039.3390173,3728.99886176431
+513,1057,1139,Grays Creek Rd,Love,Unnamed,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,1.48739451675,Secondary,0,N,,,,7853.44304844,7853.44304844,2915.140235934
+514,1058,1140,Getwell Rd,Cleveland,Unnamed,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,1.21536887611,Secondary,0,N,,,,6417.14766584,6417.14766584,2388.35484821808
+515,1059,1141,Cleveland Rd,Getwell,Malone,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,0.993777906809,Secondary,0,N,,,,5247.14734795,5247.14734795,1945.03945018086
+516,1060,1142,Malone Rd,Holly Springs,Cleveland,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,1.50139892522,Secondary,0,N,,,,7927.38632517,7927.38632517,2952.28459308955
+517,1061,1143,Holly Springs Rd Ext,Malone,Johnston,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,0.479432268304,Secondary,0,N,,,,2531.40237664,2531.40237664,938.675870866127
+518,1062,1144,Johnston Rd,Laughter,Holly Springs,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,0.444318279586,Secondary,0,N,,,,2346.00051621,2346.00051621,873.790240257886
+519,1063,1145,Bright Rd,Malone,Laughter,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,1.00834564803,Secondary,0,N,,,,5324.06502161,5324.06502161,1975.06463965503
+520,1064,1146,Jaybird Rd,Bright Rd,North of Oak Creek,Signed Shared Roadway,Existing,Rollercoaster,,,DeSoto Co,MS,,0.55234310575,Secondary,0,N,,,,2916.37159836,2916.37159836,1086.69240974109
+521,1065,1147,Porter Run Greenway,Peyton,Winchester,Shared Use Path,Existing,Sander's Creek Trail,,,Collierville,TN,,0.227953560681,,0,,,,,1203.59480039,1203.59480039,449.532117208891
+522,1066,1148,Peyton Ridge Greenway,Poplar,Peyton,Shared Use Path,Existing,Sander's Creek Trail,,,Collierville,TN,,0.280577777236,,0,,,,,1481.45066381,1481.45066381,552.456286254288
+523,1067,1149,Stoney Brooke Greenway,Stoney Brooke,Poplar,Shared Use Path,Existing,Sander's Creek Trail,,,Collierville,TN,,0.38064966191,,0,,,,,2009.83021489,2009.83021489,750.681779566573
+524,1068,1150,Brooke Edge Greenway,Shea Woods,Stoney Brooke,Shared Use Path,Existing,Sander's Creek Trail,,,Collierville,TN,ROADS FILE NEEDS UPDATING AT NORTHERN END OF TRAIL,0.697786616529,,0,,,,,3684.31333528,3684.31333528,1374.44254298372
+525,1069,1151,Semmes St,Sharpe,Wildrose,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.142323539429,Primary,2011,N,,,ARRA,751.468288187,751.468288187,280.17488735019
+526,1070,1152,Shady Grove Rd,Yates,I-240 bridge,Bike Lane,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.417701184731,Primary,2008,N,,,Local,2205.46225538,2205.46225538,821.038767660477
+527,1071,1153,Shady Grove Rd,I-240 bridge,Brierview,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.276955080965,Primary,2008,N,,,Local,1462.3228275,1462.3228275,544.327107784896
+528,1072,1154,Shady Grove Rd,Brierview,Shady Grove,Bike Lane,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.37100080598,Primary,2008,N,,,Local,1958.88425558,1958.88425558,729.529565700808
+529,1073,1155,Shady Grove Rd,Shady Grove,Meadowgrove,Signed Shared Roadway,Existing,MEM 50; MEM 60,,2003Routes,Memphis,TN,,0.071559173577,Primary,2008,N,,,Local,377.832436486,377.832436486,140.663358205338
+530,1074,1156,South Parkway,Cummings,US-51,Bike Lane,Existing,,,ARRA,Memphis,TN,,0.340679916479,Primary,2011,N,,,ARRA,1798.78995901,1798.78995901,669.460173183345
+531,1075,1157,South Parkway,College,Cummings,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.152414086945,Primary,2011,N,,,ARRA,804.74637907,804.74637907,299.504458608442
+532,1077,1159,Southern Ave,Highland,Minor,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.0924586868189,Regional,2010,N,,,ARRA,488.181866404,488.181866404,181.814454232713
+533,1078,1160,Mileston Greenway,Johnson Park,Shelton,Shared Use Path,Existing,Wagon Trail,,,Collierville,TN,,0.502711911478,Secondary,0,N,,,,2654.3188926,2654.3188926,991.910935910014
+534,1079,1161,Johnson Park Greenway,Byhalia Rd,Johnson Park,Shared Use Path,Existing,Wagon Trail,,,Collierville,TN,,1.77637787386,,0,,,,,9379.275174,9379.275174,3497.76191522768
+535,1080,1162,Hunters Mill Greenway,Byhalia,Wolf River,Shared Use Path,Existing,Wagon Trail,,,Collierville,TN,,0.506021761392,,0,,,,,2671.79490015,2671.79490015,997.991048839662
+536,1082,1164,Johnson Park Boardwalk,Johnson Park,Wolf River,Shared Use Path,Existing,Wagon Trail,,,Collierville,TN,,0.890861700884,,0,,,,,4703.74978067,4703.74978067,1754.9793760418
+537,1083,1165,Byhalia Road Greenway,Shelton,Frank,Shared Use Path,Existing,Halle Park Trail,,,Collierville,TN,,1.21481632001,,0,,,,,6414.23016965,6414.23016965,2391.74780464179
+538,1084,1166,Surrey Oaks Greenway,Frank,Surrey Oaks,Shared Use Path,Existing,Halle Park Trail,,,Collierville,TN,,0.389516334946,,0,,,,,2056.64624851,2056.64624851,768.048924833581
+539,1086,1168,Waring Rd,Castle,Summer,Signed Shared Roadway,Existing,,,ARRA,Memphis,TN,,0.240693743056,,2011,,,,ARRA,1270.86296333,1270.86296333,475.344850820789
+540,1106,1188,Johnson Rd Greenway,Wolf River,Poplar Pike,Shared Use Path,Existing,,,,Germantown,TN,,3.41455527613,Primary,0,N,,,,18028.851858,18028.851858,6728.30544053031
+541,1107,1189,Woodridge Ln Greenway,Riverdale,Poplar,Shared Use Path,Existing,,,,Germantown,TN,,0.591395057599,Primary,0,N,,,,3122.56590412,3122.56590412,1164.09349109792
+542,1108,1190,Germantown Wolf River Greenway,Memphis City Limit,Wolf River,Shared Use Path,Existing,,,,Germantown,TN,,3.29268283652,Primary,0,N,,,,17385.3653768,17385.3653768,6480.18734918253
+543,1109,1191,Miller Farms Road Greenway,Wolf River,Miller Farms,Shared Use Path,Existing,,,,Germantown,TN,,0.766903994241,Primary,0,N,,,,4049.25308959,4049.25308959,1510.19907149845
+544,1111,1193,Brierbrook Greenway,Wolf River,Brierbrook,Shared Use Path,Existing,,,,Germantown,TN,,0.213607145855,,0,,,,,1127.84573011,1127.84573011,420.844321542858
+545,1112,1194,Exeter Road Greenway,Farmingdale,Exeter,Shared Use Path,Existing,,,,Germantown,TN,,0.201808024797,,0,,,,,1065.54637093,1065.54637093,397.661752774694
+546,1113,1195,Goodlett St,South of Langston,Goodlett Cove,Bike Lane,Existing,MEM 50; MEM 60,,STP2,Memphis,TN,,0.32806293934,Primary,2012,N,,,STP-M,1732.17231971,1732.17231971,647.645577001641
+547,1114,1196,Goodlett St,Goodlett Pl,South of Grandview,Signed Shared Roadway,Existing,MEM 50; MEM 60,,STP2,Memphis,TN,,0.212586410063,Primary,2012,N,,,STP-M,1122.45624513,1122.45624513,419.673343754263
+548,1115,1197,Goodlett St,Central,South of Langston,Signed Shared Roadway,Existing,MEM 50; MEM 60,,STP2,Memphis,TN,,0.0865170941004,Primary,2012,N,,,STP-M,456.81025685,456.81025685,170.803994794877
+549,1116,1198,Hollywood St,Melissa,Corning,Signed Shared Roadway,Existing,MEM 30; MEM 40; MEM 60,,2003Routes,Memphis,TN,,0.116860235259,Primary,2003,N,,,Local,617.022042168,617.022042168,231.001998765109
+550,1117,1199,Milton Wilson Dr,Milton Wilson,SR-385,Paved Shoulder,Existing,,,,Arlington,TN,,0.258575180203,,0,,,,,1365.27695147,1365.27695147,510.900039064596
+551,1119,1202,Bluff Walk,Union,Monteigne,Shared Use Path,Existing,,,PARKS,Memphis,TN,,1.01592254778,,1998,,,,Local,5364.07105228,5364.07105228,2002.92646717951
+552,1120,1203,Kansas Rd,I-55,Chicago,Bike Lane,Existing,,,2010PW,Memphis,TN,,0.38745395902,Regional,2010,N,,,Local,2045.75690362,2045.75690362,764.502647864134
+553,1121,1204,Nonconnah Greenway,Sterling Oaks,Stone Village,Shared Use Path,Existing,,,,Collierville,TN,VERIFY TERMINI IN FIELD,0.160086501069,,0,,,,,845.256725643,845.256725643,314.722101372496
+554,1124,1207,Peabody Ave,East,Peabody,Signed Shared Roadway,Existing,,,2012PW,Memphis,TN,,0.0445051592987,Primary,2012,N,,,Local,234.987241097,234.987241097,87.5906387223579
+555,1125,1208,US-64,Fayette Co Line,Oakland City Limit,Signed Shared Roadway,Existing,TN 100,,,Fayette Co,TN,PAVED SHOULDER?,0.568146663274,Regional,0,Y,,,,2999.81438209,2999.81438209,1119.31239706809
+556,1126,1209,US-64,Oakland City Limit,MPO Boundary,Signed Shared Roadway,Existing,TN 100,,,Fayette Co,TN,PAVED SHOULDER?,1.28804696338,Regional,0,Y,,,,6800.88796663,6800.88796663,2535.02243199122
+557,1127,1210,Alicia Dr,Poplar,Union,Bike Lane,Existing,,,STP-BIKE,Memphis,TN,,0.444273878687,,2018,,,Y,STP-BIKEPED,2345.76607947,2345.76607947,876.603074826327
+558,1128,1211,Brooks Rd,New Horn Lake,US-61,Bike Lane,Existing,,,STP-BIKE,Memphis,TN,,0.554639838816,,2015,,,,STP-BIKEPED,2928.49834895,2928.49834895,1089.2745326196
+559,1131,1214,"Dr. MLK, Jr. Ave",Fourth,Manassas,Cycle Track,Existing,,,STP-BIKE,Memphis,TN,,0.846657131413,,2019,,,P,Local,4470.34965386,4470.34965386,1664.39807083762
+560,1132,1215,"Dr. MLK, Jr. Ave",Linden,Peabody,Cycle Track,Existing,,,STP-BIKE,Memphis,TN,,0.177439396498,,2019,,,,Local,936.880013512,936.880013512,349.795645516898
+561,1133,1216,East Parkway South,McLemore,Lamar,Bike Lane,Existing,,,STP-BIKE,Memphis,TN,,0.289370784524,,2020,,,P,STP-BIKEPED,1527.87774228,1527.87774228,571.138824282469
+562,1134,1217,Evergreen St,Galloway,Beard,Cycle Track,Existing,MEM 10; MEM 20; MEM 40,,STP-BIKE,Memphis,TN,,0.468497405326,Primary,2020,,,,STP-BIKEPED,2473.66630012,2473.66630012,925.117403779489
+563,1135,1218,Belvedere Blvd,Beard,Poplar,Cycle Track,Existing,MEM 10; MEM 40,,STP-BIKE,Memphis,TN,,0.0846997865224,Primary,2020,,,,STP-BIKEPED,447.214872838,447.214872838,167.009727958524
+564,1137,1220,Goodlett St,Graham,Walnut Grove,Buffered Bike Lane,Existing,MEM 40; MEM 60,,STP-BIKE,Memphis,TN,,0.509035187491,,2020,,,,STP-BIKEPED,2687.70578995,2687.70578995,1004.19539994471
+565,1147,1233,North Parkway,Watkins,Overton Park Entrance,Bike Lane,Existing,,,2016PW,Memphis,TN,,1.37780129445,,2016,,,,Local,7274.79083469,7274.79083469,2709.26255194532
+566,1149,1236,South Parkway,US-51,Lamar,Bike Lane,Existing,,,STP-BIKE,Memphis,TN,,1.72666191847,,2020,,,,STP-BIKEPED,9116.77492951,9116.77492951,3393.52662451216
+567,1152,1239,Waring Rd,Summer,Walnut Grove,Paved Shoulder,Existing,,,STP-BIKE,Memphis,TN,,1.21580786772,,2020,,,,STP-BIKEPED,6419.46554154,6419.46554154,2400.77037239184
+568,1157,1244,Broad Ave,end,Collins,Cycle Track,Existing,,,HAMPLINE,Memphis,TN,,0.421963336946,,2019,,,,CMAQ,2227.96641907,2227.96641907,829.644108798789
+569,1158,1245,Hampline Connector,East Parkway,Broad,Shared Use Path,Existing,,,HAMPLINE,Memphis,TN,,0.141721769124,,2014,,,,Private,748.290940976,748.290940976,278.666140949688
+570,1159,1246,Broad Ave,Collins,Tillman,Cycle Track,Existing,,,2014PW,Memphis,TN,,0.605000952396,,2014,,,,Local,3194.40502865,3194.40502865,1189.43723126372
+571,1160,1247,Tillman St,Broad,Shelby Farms Greenline,Cycle Track,Existing,,,HAMPLINE,Memphis,TN,,0.66506942657,,2020,,,,CMAQ,3511.56657229,3511.56657229,1313.29969472633
+572,1161,1248,Overton Park Connector,Park trails,East Parkway,Shared Use Path,Existing,,,OPC,Memphis,TN,,0.0786170772372,,2014,,,,RTP,415.098167812,415.098167812,154.64142334329
+573,1175,1262,Evergreen St,Jackson,North Parkway,Marked Shared Roadway,Existing,MEM 20; MEM 40,,2016PW,Memphis,TN,,0.551834802035,,2017,,,,Local,2913.68775474,2913.68775474,1089.83531305033
+574,1183,1271,Horn Lake Rd,LeClaire,Honduras,Bike Lane,Existing,,,2016CIP,Memphis,TN,,1.01265356431,,2016,,,,Local,5346.81081958,5346.81081958,1996.45486423575
+575,1211,1301,Southern Ave,Goodwyn,Highland,Bike Lane,Existing,,,CMAQ-BIKE,Memphis,TN,,0.954435205485,,2017,,,,Local,5039.41788496,5039.41788496,1875.71014538282
+576,1225,1315,EH Crump Blvd,Kentucky,Pauline,Cycle Track,Existing,,,2015TDOT,Memphis,TN,,2.22970737252,,2015,,,,TDOT,11772.8549269,11772.8549269,4385.79281856454
+577,1234,1324,Channel 3 Dr,Channel 3,Carolina,Marked Shared Roadway,Existing,,,MAIN2MAIN,Memphis,TN,,0.542894289372,,2015,,,,TIGER III,2866.48184789,2866.48184789,1068.69679249265
+578,1235,1325,Carolina Ave,Channel 3,Main,Marked Shared Roadway,Existing,,,MAIN2MAIN,Memphis,TN,,0.349363559707,,2015,,,,TIGER III,1844.63959525,1844.63959525,686.680926490126
+579,1236,1326,Main St,Saint Paul,Carolina,Bike Lane,Existing,,,MAIN2MAIN,Memphis,TN,,0.238154565039,,2015,,,,TIGER III,1257.4561034,1257.4561034,470.217336573465
+580,1237,1327,Main St,GE Patterson,Saint Paul,Marked Shared Roadway,Existing,,,MAIN2MAIN,Memphis,TN,,0.0820611008732,,2015,,,,TIGER III,433.28261261,433.28261261,162.027616101318
+581,1238,1328,Front Street Greenway,Saffarans,AW Willis,Shared Use Path,Existing,,,MAIN2MAIN,Memphis,TN,,0.290706146163,,2016,,,,TIGER III,1534.92845174,1534.92845174,573.914626866301
+582,1240,1331,GE Patterson Ave,Main,Fourth,Marked Shared Roadway,Existing,,,MAIN2MAIN,Memphis,TN,,0.487396091337,,2015,,,,TIGER III,2573.45136226,2573.45136226,958.039639427755
+583,1241,1332,Fourth,Vance,GE Patterson,Marked Shared Roadway,Existing,,,MAIN2MAIN,Memphis,TN,,0.18257362463,,2015,,,,TIGER III,963.988738044,963.988738044,360.473323866023
+584,1242,1333,Fourth St,"MLK, Jr.",Vance,Marked Shared Roadway,Existing,,,Local,Memphis,TN,,0.138760993723,,2017,,,,TIGER III,732.658046857,732.658046857,273.975282492189
+585,1243,1334,Harahan Approach,Harahan Bridge,Channel 3,Shared Use Path,Existing,,,MAIN2MAIN,Memphis,TN,,0.403391735035,,2015,,,,TIGER III,2129.90836099,2129.90836099,793.526571281833
+586,1244,1335,Harahan Bridge,West Memphis,Virginia Ave,Shared Use Path,Existing,,,MAIN2MAIN,Memphis,TN,,0.931055315603,,2016,,,,TIGER III,4915.97206638,4915.97206638,1833.83531909388
+587,1245,1336,Wolf River Greenway Phase 4,McLean,Hollywood,Shared Use Path,Existing,,,WRG Master Plan,Memphis,TN,,1.26583708839,,0,,,,TE,6683.61982672,6683.61982672,2493.23296602694
+588,1266,1361,Hickory Hill Rd,Mount Moriah,Winchester,Bike Lane,Existing,,,STP5,Memphis,TN,,1.5847658989,,2018,,,,STP-M,8367.56394621,8367.56394621,3125.59298732956
+589,1267,1362,Highland St,Summer,Walnut Grove,Bike Lane,Existing,,,STP5,Memphis,TN,,1.20892774501,,2019,,,,STP-M,6383.13849365,6383.13849365,2387.24195723219
+590,1268,1363,Perkins Rd,Summer,Walnut Grove,Bike Lane,Existing,,,STP5,Memphis,TN,,1.21446856525,,2019,,,,STP-M,6412.39402452,6412.39402452,2398.15391034529
+591,1270,1365,Airways Blvd,Shelby,MS State Line,Bike Lane,Existing,,,STP6,Memphis,TN,,1.79015713597,,2020,,,,STP-M,9452.02967794,9452.02967794,3529.20701247476
+592,1271,1366,Knight Arnold Rd,Hickory Hill,Ridgeway,Bike Lane,Existing,,,STP5,Memphis,TN,,0.508163967318,,2019,,,,STP-M,2683.10574744,2683.10574744,998.000924118046
+593,1272,1367,Mendenhall Rd,Mount Moriah,Knight Arnold,Bike Lane,Existing,,,STP6,Memphis,TN,,1.11753105754,,2020,,,,STP-M,5900.56398383,5900.56398383,2204.72052585185
+594,1275,1370,Front St,Jefferson,Union,Marked Shared Roadway,Existing,,,2015CIP,Memphis,TN,,0.289011471379,,2015,,,,STP-M,1525.98056888,1525.98056888,570.498271817436
+595,1276,1371,Neely Rd,Raines,Holmes,Bike Lane,Existing,,,STP4,Memphis,TN,,1.95516524978,,2016,,,,STP-M,10323.2725189,10323.2725189,3855.02491613157
+596,1277,1372,Prescott St,Radford,Sharpe,Bike Lane,Existing,,,STP4,Memphis,TN,,1.22898626592,,2016,,,,STP-M,6489.04748408,6489.04748408,2425.20460555688
+597,1278,1373,Brooks Rd,US-51,Airways,Buffered Bike Lane,Existing,,,STP4,Memphis,TN,,1.81687575042,,2016,,,,STP-M,9593.10396224,9593.10396224,3568.14564837851
+598,1279,1374,New Horn Lake Rd,Peebles,Mitchell,Buffered Bike Lane,Existing,,,STP4,Memphis,TN,,0.778881572139,,2016,,,,STP-M,4112.49470089,4112.49470089,1536.32729757906
+599,1280,1375,Kansas Rd,Florida,I-55,Signed Shared Roadway,Existing,,,2010PW,Memphis,TN,,0.134344012096,,2010,,,,Local,709.336383864,709.336383864,265.056961335671
+600,1281,1376,East St,"Dr MLK, Jr",Crump,Buffered Bike Lane,Existing,,,STP4,Memphis,TN,,0.231902897487,,2016,,,,STP-M,1224.44729873,1224.44729873,457.893616567814
+601,1286,1384,Center Hill Rd,Goodman,US-78,Signed Shared Roadway,Existing,Center Hill Rd Bike Route,,,DeSoto Co,MS,VERIFY TERMINI IN FIELD,4.28667381172,,0,,,,,22633.6377259,22633.6377259,8431.68064450287
+602,1294,1392,McLean Blvd,Chelsea,Hunter,Signed Shared Roadway,Existing,MEM 20; MEM 40,,2003Routes,Memphis,TN,,0.197463776821,Primary,2003,N,,,Local,1042.60874161,1042.60874161,390.073993919365
+603,1295,1393,McLean Blvd,Nedra,Chelsea,Cycle Track,Existing,MEM 20; MEM 40: WRG 5a,,2003Routes; WRG,Memphis,TN,,0.57527748991,Primary,2020,N,,,Private,3037.46514672,3037.46514672,1135.91282292324
+604,1296,1394,Mountain Terrace St,Frayser,James,Paved Shoulder,Existing,,,2013PW,Memphis,TN,,1.40755216034,,2014,,,,Local,7431.87540658,7431.87540658,2780.60888295756
+605,1297,1395,Mountain Terrace St,Hawkins Mill,St Elmo,Paved Shoulder,Existing,,,2013PW,Memphis,TN,,0.926564797113,,2014,,,,Local,4892.26212876,4892.26212876,1831.3163067451
+606,1298,1396,Frayser Blvd,Millington,Riney,Bike Lane,Existing,,,2014CIP,Memphis,TN,,1.31063142689,,2015,,,,Local,6920.13393396,6920.13393396,2579.1892760994
+607,1306,1409,Cleveland St,North Parkway,Overton Park,Buffered Bike Lane,Existing,,,2014CIP,Memphis,TN,,0.319959671295,Regional,2019,N,,,Local,1689.38706444,1689.38706444,631.422160576615
+608,1307,1412,Cleveland St,Peabody,Goodbar,Marked Shared Roadway,Existing,,,2014CIP,Memphis,TN,,0.270710763863,,2015,,,,Local,1429.3528332,1429.3528332,534.475269031013
+609,1308,1413,Cleveland St,Goodbar,Lamar,Cycle Track,Existing,,,2014CIP,Memphis,TN,,0.127014625856,,2015,,,,Local,670.637224521,670.637224521,250.369340132966
+610,1315,1421,Raleigh LaGrange Rd,Austin Peay,Coleman,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.653615873013,,2014,,,,Local,3451.09180951,3451.09180951,1286.67584218119
+611,1317,1424,Kate Bond Rd,US-64,Reese,Bike Lane,Existing,,,2016PW,Memphis,TN,,0.753367829244,,2016,,,,Local,3977.78213841,3977.78213841,1488.72856290304
+612,1318,1427,Whitten Rd,Raleigh Lagrange,Century Center,Buffered Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.494190732598,,2016,,,,Local,2609.32706812,2609.32706812,976.274287801141
+613,1319,1428,Whitten Rd,Fletcher Creek,Raleigh LaGrange,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.0877983228457,,2016,,,,Local,463.575144626,463.575144626,173.455440001982
+614,1323,1434,Cordova Rd,Memphis city limit,Germantown,Bike Lane,Existing,,,2014PW,Memphis,TN,,1.03307211083,,2014,,,,Local,5454.6207452,5454.6207452,2032.80573760741
+615,1324,1435,Lynnfield Rd,Park,Quince,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.725360395049,,2014,,,,Local,3829.90288586,3829.90288586,1431.53922613349
+616,1325,1439,Chimneyrock Rd,Autumndale,Berryhill,Bike Lane,Existing,,,2016PW,Memphis,TN,,0.904584169866,,2017,,,,Local,4776.20441689,4776.20441689,1780.95927000177
+617,1326,1440,Chimneyrock Rd,Dexter,Autumndale,Bike Lane,Existing,,,2016PW,Memphis,TN,,0.11599408803,,2017,,,,Local,612.4487848,612.4487848,228.352506169211
+618,1327,1441,Patmore Rd,Mullins Station,Harpeth,Marked Shared Roadway,Existing,,,2014PW,Memphis,TN,,0.593888510704,,2014,,,,Local,3135.73133651,3135.73133651,1168.17067080983
+619,1328,1442,Riverdale Rd,Shelby,Memphis city limit,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.513257389716,,2016,,,,Local,2709.9990177,2709.9990177,1011.97271327798
+620,1329,1444,Raines Rd,Clarke,Hickory Hill,Signed Shared Roadway,Existing,,,2014PW,Memphis,TN,,0.493422792335,,2014,,,,Local,2605.27234353,2605.27234353,968.706701280706
+621,1330,1445,Winbrook Dr,Brooks,Winchester,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.517628852747,,2014,,,,Local,2733.08034251,2733.08034251,1020.77956212158
+622,1331,1447,Winchester Rd,Perkins,Clarke,Bike Lane,Existing,,,2015CIP,Memphis,TN,,1.86030750722,,2015,,,,Local,9822.42363812,9822.42363812,3652.95880339072
+623,1332,1450,Cherry Rd,American Way,Cochese,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.153723564575,,2014,,,,Local,811.660420957,811.660420957,302.687759990934
+624,1333,1451,Goodlett St,Cochese,Forest View,Paved Shoulder,Existing,,,2014PW,Memphis,TN,,0.902395315187,,2014,,,,Local,4764.64726419,4764.64726419,1780.13820225088
+625,1334,1452,Goodlett Rd,Forest View,Winchester,Bike Lane,Existing,,,2014PW,Memphis,TN,,0.544770944909,,2014,,,,Local,2876.39058912,2876.39058912,1074.55365699573
+626,1338,1456,American Way,Perkins,driveway,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.938850504296,,2016,,,,Local,4957.13066268,4957.13066268,1845.39825107579
+627,1339,1457,American Way,driveway,Mount Moriah,Signed Shared Roadway,Existing,,,2016CIP,Memphis,TN,,0.219762622645,,2016,,,,Local,1160.34664757,1160.34664757,432.924044591083
+628,1341,1460,White Station Rd,Walnut Grove,Juniper,Paved Shoulder,Existing,,,2016CIP,Memphis,TN,,0.680244185575,,2016,,,,Local,3591.68929984,3591.68929984,1343.00867653157
+629,1342,1461,White Station Rd,Lexington,Poplar,Paved Shoulder,Existing,,,2016CIP,Memphis,TN,,0.470455923376,,2016,,,,Local,2484.00727542,2484.00727542,928.660393340231
+630,1343,1462,White Station Rd,Sanderlin,Lexington,Signed Shared Roadway,Existing,,,2016CIP,Memphis,TN,,0.0841585660493,,2016,,,,Local,444.35722874,444.35722874,166.136008772397
+631,1344,1463,White Station Rd,Juniper,Sanderlin,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.236043287656,,2016,,,,Local,1246.30855882,1246.30855882,465.982903642204
+632,1345,1464,Mt. Moriah Rd,Alrose,Willow,Paved Shoulder,Existing,,,2015PW,Memphis,TN,,1.39956140291,,2016,,,,Local,7389.68420737,7389.68420737,2761.88955308043
+633,1346,1465,Mt. Moriah,Poplar,Alrose,Bike Lane,Existing,,,2015CIP,Memphis,TN,,0.565408717565,,2016,,,,Local,2985.35802874,2985.35802874,1115.90081303045
+634,1347,1466,Yates Rd,Walnut Grove,Spainwood,Paved Shoulder,Existing,,,2016CIP,Memphis,TN,,1.2936180117,,2016,,,,Local,6830.30310176,6830.30310176,2553.59481023364
+635,1349,1469,Yates Rd,Spainwood,Yates Village,Paved Shoulder,Existing,,,2016CIP,Memphis,TN,,0.313959587737,,2016,,,,Local,1657.70662325,1657.70662325,619.736589486505
+636,1350,1470,Yates Rd,Yates Village,Poplar,Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.16107238936,,2016,,,,Local,850.46221582,850.46221582,317.930596512808
+637,1351,1472,Monroe Ave,US-51,Madison,Bike Lane,Existing,,,2016PW,Memphis,TN,,0.531828087362,,2017,,,,Local,2808.05230127,2808.05230127,1045.76769124974
+638,1352,1473,Orleans St,Madison,Marshall,Marked Shared Roadway,Existing,,,2016PW,Memphis,TN,,0.103307419406,,2016,,,,Local,545.463174463,545.463174463,203.851569723386
+639,1353,1474,Florida St,Belz,Mallory,Buffered Bike Lane,Existing,,,2016CIP,Memphis,TN,,0.589977673122,,2016,,,,Local,3115.08211409,3115.08211409,1164.30409237272
+640,1355,1476,Winchester Rd,US-61,Graves,Bike Lane,Existing,,,2014PW,Memphis,TN,,1.09374500873,,2014,,,,Local,5774.97364607,5774.97364607,2147.82341468957
