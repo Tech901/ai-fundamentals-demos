@@ -1,0 +1,32 @@
+$schema: https://azuremlschemas.azureedge.net/latest/automlJob.schema.json
+name: car-price-automl-cli
+experiment_name: car-price-regression-cli
+type: automl
+
+task: regression
+primary_metric: normalized_root_mean_squared_error
+
+# Preferred for demos (if enabled in your subscription/workspace).
+compute: azureml:serverless
+
+training_data:
+  type: mltable
+  path: azureml:car-details-dehko@latest
+
+target_column_name: selling_price
+
+training:
+  allowed_training_algorithms:
+    - LightGBM
+    - KNN
+    - XGBoostRegressor
+
+limits:
+  max_trials: 10
+  max_concurrent_trials: 2
+  timeout_minutes: 60
+
+outputs:
+  best_model:
+    explanation:
+      enabled: true

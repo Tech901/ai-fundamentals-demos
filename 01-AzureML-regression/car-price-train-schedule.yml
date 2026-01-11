@@ -1,0 +1,11 @@
+$schema: https://azuremlschemas.azureedge.net/latest/schedule.schema.json
+name: car-price-train-weekly
+
+type: recurrence
+frequency: week
+interval: 1
+start_time: "2026-01-12T12:00:00Z"
+time_zone: "UTC"
+
+create_job:
+  job: ./car-price-train-job.yml

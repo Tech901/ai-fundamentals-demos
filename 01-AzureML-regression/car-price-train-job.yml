@@ -1,0 +1,21 @@
+$schema: https://azuremlschemas.azureedge.net/latest/commandJob.schema.json
+name: car-price-train-cli
+display_name: car-price-train-cli
+experiment_name: car-price-regression-cli
+
+type: command
+code: ./src
+command: >-
+  python train.py
+  --data ${{inputs.training_data}}
+  --target selling_price
+
+environment: azureml:AzureML-sklearn-1.0-ubuntu20.04-py38-cpu@latest
+
+# Preferred for demos (if enabled in your subscription/workspace).
+compute: azureml:serverless
+
+inputs:
+  training_data:
+    type: mltable
+    path: azureml:car-details-dehko@latest

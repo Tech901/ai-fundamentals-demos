@@ -26,8 +26,110 @@ Steps to set up a Regression Job:
 
 ## Option 2: Using `az ml`
 
-TBD.
+### Goal
 
+Run **(1)** a simple Python regression training job and **(2)** an AutoML regression job from the CLI.
+
+### Files added for CLI demos
+
+- `./src/train.py` – trains a simple regression model and writes `outputs/model.joblib`
+- `./car-price-train-job.yml` – `command` job (Python script)
+- `./car-price-automl-job.yml` – AutoML regression job (restricted algorithms + metric)
+- `./car-price-train-schedule.yml` – example schedule (optional)
+
+### 1) Select your workspace (assumes it already exists)
+
+```bash
+# If you don't know the resource group, list workspaces first:
+az ml workspace list -o table
+
+RG="<YOUR_RESOURCE_GROUP>"
+WS="tech901-workspace"
+
+az configure --defaults group="$RG" workspace="$WS"
+az ml workspace show -o table
+```
+
+### 2) Create a data asset (uploaded to the workspace blob storage)
+
+This folder already includes an `MLTable` definition pointing at `car-details-from-car-dehko.cleaned.csv`.
+
+```bash
+cd 01-AzureML-regression
+
+az ml data create \
+  --name car-details-dehko \
+  --version 1 \
+  --type mltable \
+  --path ./data
+
+az ml data show --name car-details-dehko --version 1 -o table
+```
+
+### 3) Compute (prefer serverless; otherwise use an existing cluster)
+
+```bash
+# Serverless requires no setup; if it isn't enabled, use an existing compute instead.
+az ml compute list -o table
+
+# Optional: create a small CPU cluster if you need one
+az ml compute create \
+  --name cpu-cluster \
+  --type amlcompute \
+  --size Standard_DS3_v2 \
+  --min-instances 0 \
+  --max-instances 2
+```
+
+If serverless isn't available in your workspace/subscription, edit the YAML and change:
+
+- `compute: azureml:serverless` → `compute: azureml:cpu-cluster`
+
+### 4) Run the simple Python regression job (CLI command job)
+
+```bash
+az ml job create --file car-price-train-job.yml --stream
+```
+
+### 5) Run AutoML regression from the CLI (restricted algorithms)
+
+This job uses:
+- task: `regression`
+- primary metric: `normalized_root_mean_squared_error`
+- best model explanation: enabled
+- allowed models: `LightGBM`, `KNN`, `XGBoostRegressor`
+
+```bash
+az ml job create --file car-price-automl-job.yml --web
+```
+
+### 6) (Optional) Schedule the training job
+
+```bash
+az ml schedule create --file car-price-train-schedule.yml
+az ml schedule list -o table
+```
+
+### 7) Check job status
+
+```bash
+az ml job list --max-results 10 -o table
+
+# Replace with your returned job name (e.g., "car-price-train-cli_...")
+JOB_NAME="<JOB_NAME>"
+az ml job show --name "$JOB_NAME" -o table
+az ml job stream --name "$JOB_NAME"
+```
+
+### 8) Fetch results/artifacts
+
+```bash
+mkdir -p ./downloads
+az ml job download --name "$JOB_NAME" --download-path ./downloads
+
+# For the Python job, your trained model will be at:
+# ./downloads/<JOB_NAME>/outputs/model.joblib
+```
 
 ## Additional Resources
 
