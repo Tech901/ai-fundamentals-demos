@@ -12,8 +12,8 @@ command: >-
 
 environment: azureml:AzureML-sklearn-1.0-ubuntu20.04-py38-cpu@latest
 
-# Preferred for demos (if enabled in your subscription/workspace).
-compute: azureml:serverless
+# Use an AML compute cluster (serverless isn't enabled in all workspaces).
+# compute: azureml:cpu-cluster
 
 inputs:
   training_data:

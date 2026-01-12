@@ -30,14 +30,14 @@ Steps to set up a Regression Job:
 
 Run **(1)** a simple Python regression training job and **(2)** an AutoML regression job from the CLI.
 
-### Files added for CLI demos
+### Files for CLI demos
 
 - `./src/train.py` – trains a simple regression model and writes `outputs/model.joblib`
 - `./car-price-train-job.yml` – `command` job (Python script)
 - `./car-price-automl-job.yml` – AutoML regression job (restricted algorithms + metric)
 - `./car-price-train-schedule.yml` – example schedule (optional)
 
-### 1) Select your workspace (assumes it already exists)
+### 1. Select your workspace (assumes it already exists)
 
 ```bash
 # If you don't know the resource group, list workspaces first:
@@ -50,7 +50,7 @@ az configure --defaults group="$RG" workspace="$WS"
 az ml workspace show -o table
 ```
 
-### 2) Create a data asset (uploaded to the workspace blob storage)
+### 2. Create a data asset (uploaded to the workspace blob storage)
 
 This folder already includes an `MLTable` definition pointing at `car-details-from-car-dehko.cleaned.csv`.
 
@@ -66,7 +66,7 @@ az ml data create \
 az ml data show --name car-details-dehko --version 1 -o table
 ```
 
-### 3) Compute (prefer serverless; otherwise use an existing cluster)
+### 3. Compute (prefer serverless; otherwise use an existing cluster)
 
 ```bash
 # Serverless requires no setup; if it isn't enabled, use an existing compute instead.
@@ -81,17 +81,18 @@ az ml compute create \
   --max-instances 2
 ```
 
-If serverless isn't available in your workspace/subscription, edit the YAML and change:
+⚠️ If serverless **is NOT** available in your workspace/subscription, explicitly set a compute target in the job YAML.
 
-- `compute: azureml:serverless` → `compute: azureml:cpu-cluster`
+- In `car-price-train-job.yml`, add: `compute: azureml:cpu-cluster`
+- (And make sure the cluster exists first: `az ml compute create --name cpu-cluster --type amlcompute ...`)
 
-### 4) Run the simple Python regression job (CLI command job)
+### 4. Run the simple Python regression job (CLI command job)
 
 ```bash
 az ml job create --file car-price-train-job.yml --stream
 ```
 
-### 5) Run AutoML regression from the CLI (restricted algorithms)
+### 5. Run AutoML regression from the CLI (restricted algorithms)
 
 This job uses:
 - task: `regression`
@@ -103,14 +104,15 @@ This job uses:
 az ml job create --file car-price-automl-job.yml --web
 ```
 
-### 6) (Optional) Schedule the training job
+### 6. (Optional) Schedule the training job
+Do this if you want a model to be retrained periodically ... assuming you have new data to re-train the model.
 
 ```bash
 az ml schedule create --file car-price-train-schedule.yml
 az ml schedule list -o table
 ```
 
-### 7) Check job status
+### 7. Check job status
 
 ```bash
 az ml job list --max-results 10 -o table
@@ -121,7 +123,7 @@ az ml job show --name "$JOB_NAME" -o table
 az ml job stream --name "$JOB_NAME"
 ```
 
-### 8) Fetch results/artifacts
+### 8. Fetch results/artifacts
 
 ```bash
 mkdir -p ./downloads

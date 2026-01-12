@@ -3,6 +3,6 @@ paths:
 transformations:
   - read_delimited:
       delimiter: ','
-      encoding: 'utf-8'
+      encoding: 'utf8'
       header: all_files_same_headers
       infer_column_types: true
