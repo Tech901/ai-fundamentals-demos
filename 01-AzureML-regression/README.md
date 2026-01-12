@@ -97,8 +97,9 @@ az ml job create --file car-price-train-job.yml --stream
 This job uses:
 - task: `regression`
 - primary metric: `normalized_root_mean_squared_error`
-- best model explanation: enabled
 - allowed models: `LightGBM`, `KNN`, `XGBoostRegressor`
+
+Note: some Azure ML CLI/extension versions don’t expose AutoML “explain best model” in YAML; if you need that, enable it in Studio/SDK for the AutoML run.
 
 ```bash
 az ml job create --file car-price-automl-job.yml --web

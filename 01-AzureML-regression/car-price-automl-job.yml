@@ -6,8 +6,8 @@ type: automl
 task: regression
 primary_metric: normalized_root_mean_squared_error
 
-# Preferred for demos (if enabled in your subscription/workspace).
-compute: azureml:serverless
+# If your workspace supports serverless AutoML, omit compute.
+# Otherwise set a cluster, e.g.: compute: azureml:cpu-cluster
 
 training_data:
   type: mltable
@@ -26,7 +26,3 @@ limits:
   max_concurrent_trials: 2
   timeout_minutes: 60
 
-outputs:
-  best_model:
-    explanation:
-      enabled: true
