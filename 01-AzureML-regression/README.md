@@ -134,6 +134,28 @@ az ml job download --name "$JOB_NAME" --download-path ./downloads
 # ./downloads/<JOB_NAME>/outputs/model.joblib
 ```
 
+---
+
+## Running Inference
+
+Once you've downloaded your model, see **[INFERENCE.md](INFERENCE.md)** for detailed instructions on:
+- Running local inference with the demo script
+- Understanding model input requirements
+- Deploying models as endpoints
+- Handling different model formats (joblib, pickle, MLflow)
+
+**Quick start:**
+```bash
+# For custom trained model (train.py)
+python src/inference_demo.py --model-path ./downloads/<JOB_NAME>/outputs/model.joblib
+
+# For AutoML model with full feature set
+python src/inference_demo.py --model-path ./downloads/<JOB_NAME>/outputs/mlflow-model --data ./data/test-cars-full.csv
+```
+
+---
+
 ## Additional Resources
 
 - Azure [Tutorial on AutoML](https://learn.microsoft.com/en-us/azure/machine-learning/tutorial-first-experiment-automated-ml?view=azureml-api-2)
+- [Inference Guide](INFERENCE.md) - Detailed guide on running predictions

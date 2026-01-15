@@ -1,0 +1,5 @@
+Path,name,year,km_driven,fuel,seller_type,transmission,owner,mileage,engine,max_power,torque,seats
+path/to/car1,Maruti Swift,2015,50000,Petrol,Individual,Manual,First Owner,19.1 kmpl,1197 CC,81.80 bhp,113Nm@ 4200rpm,5.0
+path/to/car2,Hyundai Creta,2018,30000,Diesel,Dealer,Manual,First Owner,21.4 kmpl,1493 CC,113.4 bhp,250Nm@ 1500-2750rpm,5.0
+path/to/car3,Honda City,2012,80000,Petrol,Individual,Automatic,Second Owner,17.8 kmpl,1497 CC,117.3 bhp,145Nm@ 4600rpm,5.0
+path/to/car4,Toyota Innova,2020,15000,Diesel,Dealer,Automatic,First Owner,14.3 kmpl,2393 CC,138.8 bhp,343Nm@ 1400-2600rpm,7.0

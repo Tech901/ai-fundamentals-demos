@@ -1,0 +1,53 @@
+{
+  "input_data": {
+    "columns": [
+      "Path",
+      "name",
+      "year",
+      "km_driven",
+      "fuel",
+      "seller_type",
+      "transmission",
+      "owner",
+      "mileage",
+      "engine",
+      "max_power",
+      "torque",
+      "seats"
+    ],
+    "index": [0, 1],
+    "data": [
+      [
+        "path/to/car1",
+        "Maruti Swift",
+        2015,
+        50000,
+        "Petrol",
+        "Individual",
+        "Manual",
+        "First Owner",
+        "19.1 kmpl",
+        "1197 CC",
+        "81.80 bhp",
+        "113Nm@ 4200rpm",
+        5.0
+      ],
+      [
+        "path/to/car2",
+        "Hyundai Creta",
+        2020,
+        15000,
+        "Diesel",
+        "Dealer",
+        "Automatic",
+        "First Owner",
+        "21.4 kmpl",
+        "1493 CC",
+        "113.4 bhp",
+        "250Nm@ 1500-2750rpm",
+        5.0
+      ]
+    ]
+  },
+  "params": {}
+}

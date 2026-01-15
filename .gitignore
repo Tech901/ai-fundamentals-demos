@@ -52,3 +52,4 @@ mlruns/
 outputs/
 wandb/
 lightning_logs/
+downloads/
