@@ -1,7 +1,8 @@
 # Car Prices Prediction
 
-- Data set from this [Kaggle Notebook](https://www.kaggle.com/code/eisgandar/car-prices-predict-with-ensemble-methods/notebook)
-- Data is from Car Dehko
+- Data set from this [Kaggle Vehicle Dataset](https://www.kaggle.com/datasets/nehalbirla/vehicle-dataset-from-cardekho/discussion/239816)
+- Data is from Car Dehko 
+- Prices are in INR (Indian Rupee)
 
 ## columns
 
