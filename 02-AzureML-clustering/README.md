@@ -1,14 +1,10 @@
-# Azure ML Studio: Classification
+# Azure ML Studio: Clustering
 
-This demo illustrates using Azure ML Studio to run a Classification workload on a dataset.
+This demo illustrates using Azure ML Studio to run a Clustering workload on a dataset.
 
 ## Dataset
 
 See [data](./data) for Memphis bike facilities exports and an `MLTable` file for use as an Azure ML Studio data asset.
-
-Suggested label columns for a classification demo:
-- `status` (Existing vs programmed)
-- `facility_c` (facility type)
 
 ## Prerequisites
 
@@ -20,13 +16,33 @@ Suggested label columns for a classification demo:
 1. In Azure ML Studio, go to **Data** → **Create**.
 2. Create a **data asset** from this folder’s `MLTable` (recommended), or upload `Bike_Facilities_Existing_and_Programmed.cleaned.csv` as a tabular dataset.
 3. Go to **Designer** and create a new pipeline.
-4. Drag the dataset onto the canvas.
-5. Add **Select Columns in Dataset** and choose a label column:
-   - Simple 2-class demo: `status` (`Existing` vs programmed)
-   - Multi-class demo: `facility_c` (facility type)
-6. Add **Clean Missing Data** (optional) and then **Split Data** (e.g., 70/30).
-7. Add **Train Model** + a classifier (e.g., **Two-Class Logistic Regression** for `status`). Set the label column.
-8. Add **Score Model** and **Evaluate Model**, then **Submit** to run the pipeline.
+4. Drag the data asset onto the canvas.
+5. Build the data pipeline; The connected components should look something like the following.
+   ```mermaid
+   graph TD
+
+   a[Convert to Dataset]
+   b[Select Columns in Datset ]
+   c[Clean Missing Data]
+   d[Convert to Indicator Values]
+   e[Normalize Data]
+   f[Train Clustering Model]
+   g[K-Means Clustering]
+   h[Assign Data To Clusters]
+   i[Export Data]
+
+   a --> b
+   b --> c
+   c --> d
+   d --> e
+   e --> f
+   e --> h
+   g --> f
+   f --> h
+   h --> i
+   ```
+6. Click Configure & Submit.
+
 
 ## Additional Resources
 
