@@ -1,5 +1,6 @@
 import urllib.request
 import json
+import os
 
 # Request data must match the MLmodel signature
 # Based on the model signature, all 13 fields are required:
@@ -29,12 +30,10 @@ data = {
 }
 
 body = str.encode(json.dumps(data))
-
-url = 'https://tech901-workspace-zujbb.eastus2.inference.ml.azure.com/score'
-# Replace this with the primary/secondary key, AMLToken, or Microsoft Entra ID token for the endpoint
-api_key = '9oiDdkeEGfvtOy70zt3oYa0KWPHIrYLyufPycKy4TlWHrTYEvhMNJQQJ99CAAAAAAAAAAAAAINFRAZML11i1'
-if not api_key:
-    raise Exception("A key should be provided to invoke the endpoint")
+url = os.environ.get("AZURE_ML_ENDPOINT")
+api_key = os.environ.get("AZUR_ML_API_KEY")
+if not url or api_key:
+    raise Exception("A URL and API key should be provided to invoke the endpoint")
 
 
 headers = {'Content-Type':'application/json', 'Accept': 'application/json', 'Authorization':('Bearer '+ api_key)}
