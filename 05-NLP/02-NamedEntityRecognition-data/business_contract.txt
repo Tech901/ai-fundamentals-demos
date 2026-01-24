@@ -1,0 +1,80 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement ("Agreement") is entered into as of January 15, 2026, by and between:
+
+APERTURE LABORATORIES, INC., a Delaware corporation with its principal place of business at 1500 Innovation Drive, Cleveland, Ohio 44113 ("Provider"), and
+
+UMBRELLA CORPORATION, a multinational conglomerate incorporated in the State of New York with headquarters at 2800 Corporate Plaza, Suite 500, Raccoon City, New York 10001 ("Client").
+
+WHEREAS, Provider specializes in advanced machine learning solutions, artificial intelligence research, and data analytics services; and
+
+WHEREAS, Client desires to engage Provider to deliver machine learning consulting services, model development, and AI infrastructure support;
+
+NOW, THEREFORE, in consideration of the mutual covenants and agreements hereinafter set forth, the parties agree as follows:
+
+1. SCOPE OF SERVICES
+
+1.1 Provider agrees to deliver the following services to Client:
+   (a) Development and deployment of custom machine learning models for pharmaceutical research optimization
+   (b) Natural language processing solutions for clinical trial documentation
+   (c) Predictive analytics platforms for supply chain management
+   (d) AI-powered quality control systems for manufacturing facilities
+
+1.2 Services shall be performed at Client's facilities located in Raccoon City, New York, and remotely from Provider's headquarters in Cleveland, Ohio.
+
+2. TERM AND TERMINATION
+
+2.1 This Agreement shall commence on February 1, 2026, and continue through January 31, 2029 (the "Initial Term").
+
+2.2 Either party may terminate this Agreement with ninety (90) days written notice to the other party.
+
+3. COMPENSATION
+
+3.1 Client agrees to pay Provider the following fees:
+   (a) Initial setup and integration: $2,500,000 USD
+   (b) Monthly retainer for ongoing services: $175,000 USD
+   (c) Additional development work: $350 USD per hour
+
+3.2 All invoices shall be paid within thirty (30) days of receipt.
+
+4. KEY PERSONNEL
+
+4.1 Provider designates the following individuals as key personnel for this engagement:
+   - Dr. Caroline Johnson, Chief AI Officer
+   - Marcus Chen, Director of Machine Learning Operations
+   - Dr. Elena Rodriguez, Lead Data Scientist
+
+4.2 Client designates the following individuals as primary contacts:
+   - William Birkin, VP of Research and Development
+   - Dr. Annette Thompson, Director of Information Technology
+   - Albert Wesker, Chief Operations Officer
+
+5. INTELLECTUAL PROPERTY
+
+5.1 All intellectual property developed specifically for Client under this Agreement shall be owned by Client upon full payment.
+
+5.2 Provider retains ownership of all pre-existing intellectual property, tools, and methodologies.
+
+6. CONFIDENTIALITY
+
+6.1 Both parties agree to maintain strict confidentiality of all proprietary information exchanged during the course of this engagement.
+
+7. GOVERNING LAW
+
+7.1 This Agreement shall be governed by the laws of the State of Delaware.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+APERTURE LABORATORIES, INC.
+
+By: ________________________________
+Name: Dr. Cave Johnson
+Title: Chief Executive Officer
+Date: January 15, 2026
+
+UMBRELLA CORPORATION
+
+By: ________________________________
+Name: Oswell E. Spencer
+Title: Chairman and CEO
+Date: January 15, 2026

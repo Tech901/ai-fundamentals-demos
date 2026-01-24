@@ -1,0 +1,39 @@
+Tech901 Courses Information
+
+IT PROFESSIONAL TRACK
+
+The IT Professional Track provides students with the skills, knowledge, and/or certifications needed to begin a career as an IT professional. This track includes four classes covering topics such as Tech Essentials, IT Help Desk & Repair, Networking, Security, and Project Management.
+
+Course: TECH ESSENTIALS
+Price: $100
+Duration: 4 weeks
+Schedule: Monday - Thursday
+
+Course: IT FOUNDATIONS
+Price: $250
+Duration: 11 weeks
+Schedule: Monday - Thursday
+
+Course: IT NETWORKING
+Price: $250
+Duration: 9 weeks
+Schedule: Monday - Thursday
+
+Course: IT PROJECT
+Price: $250
+Duration: 7 weeks
+Schedule: Monday - Thursday
+
+Course: IT SECURITY
+Price: $250
+Duration: 9 weeks
+Schedule: Monday - Thursday
+
+SOFTWARE DEVELOPMENT TRACK
+
+The Software Development Track is designed to teach analytical thinkers real-world methodologies for developing technical solutions. Taken together, the track offers a well-rounded understanding of Computer Programming, Front-end Development, Database Fundamentals and Project Management.
+
+Additional Courses:
+- DATABASE FUNDAMENTALS: $250
+- DATA ANALYTICS: $250
+- CODE 1.0: $250
