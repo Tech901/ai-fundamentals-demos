@@ -1,0 +1,50 @@
+Tech901 Tuition and Fees Information
+
+Tech901 is a nonprofit, which receives financial support from local foundations. That means we're able to subsidize courses, and provide our students with discounts on certifications. Tuition Fees are paid online, and must be paid in full as part of your registration process. Tuition is $3500; however, after benefit of government programs and/or a Memphis donor scholarship fund, the Maximum Out-of-Pocket student requirement will be $100 - $250.
+
+IT CAREERS TUITION AND FEES
+
+All course material has been reviewed and approved by the Tech901 Academy. Course materials include, but are not limited to: textbooks, slide decks, tests, quizzes, and exams. Course material costs are included in the price of tuition.
+
+All materials used for course instruction, quizzes and homework is provided by an approved courseware vendor or created internally and approved by Tech901.
+
+All Tech901 courses require the students' use of laptop computers in class. Tech901 owns approximately 30 laptops available for students' in-class use at no additional cost.
+
+COURSE FEES:
+- TECH ESSENTIALS: $100
+- IT FOUNDATIONS: $250
+- IT NETWORKING: $250
+- IT SECURITY: $250
+- DATABASE FUNDAMENTALS: $250
+- DATA ANALYTICS: $250
+- CODE 1.0: $250
+
+CERTIFICATION EXAM PRICES (Retail vs Tech901 Price):
+- CompTIA Tech+: FC0-U71: $129 retail, $30 Tech901 price
+- CompTIA A+: 220-1001: $253 retail, $115 Tech901 price
+- CompTIA A+: 220-1002: $253 retail, $115 Tech901 price
+- CompTIA Network+: N10-009: $369 retail, $178 Tech901 price
+- CompTIA Security+: SY0-701: $404 retail, $262 Tech901 price
+- CompTIA Project+: PK0-005: $369 retail, $178 Tech901 price
+- CompTIA Data+: DA0-001: $253 retail, $115 Tech901 price
+- Microsoft PL-300: Power BI: $170 retail, $170 Tech901 price
+
+Tech901 currently trains for certifications with CompTIA and Microsoft, vendor-neutral IT certification providers. CompTIA has issued more than 2 million IT certifications to date, developed to correlate directly with current IT job requirements.
+
+FAQ:
+
+Does Tech901 offer scholarships?
+As our course fees are already heavily discounted, Tech901 is unable to offer scholarships. We do offer opportunities for trainees to receive scholarships toward discounted certification exam vouchers depending on in-class performance.
+
+What does my course fee cover?
+Payment of your registration fee guarantees your seat in the course as well as a textbook and any other class materials you will need.
+
+Do I get my money back if I need to withdraw from class?
+More information on refunds can be found in the Cancellation, Withdrawal, and Refund Policy in our Student Handbook.
+
+CANCELLATIONS AND REFUNDS:
+Tech901 trainees have a lot going on. We understand that you may need to cancel your registration. Prior to 20% completion of class, trainees are eligible to a full refund of tuition (including any fees). Students who choose to withdraw from a Tech901 course are asked to do so by completing a withdrawal form online at: https://info.tech901.org/withdrawal. Refunds will be processed within two weeks of the date of withdrawal.
+
+All courses will include at least one graded test or project before the 20% completion mark of the course (e.g. week 3 in a 12-week course) to ensure students are able to withdraw and receive a refund if necessary.
+
+Please note: trainees who withdraw or are administratively withdrawn due to attendance from two Tech901 classes will no longer be eligible for future Tech901 courses.

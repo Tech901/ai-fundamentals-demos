@@ -1,0 +1,80 @@
+MEMORIAL MEDICAL CENTER
+PATIENT MEDICAL REPORT
+
+================================================================================
+PATIENT INFORMATION
+================================================================================
+
+Patient Name: Joe T. Public
+Date of Birth: March 15, 1985
+Social Security Number: 482-93-7156
+Patient Account Number: MMC-2026-847291
+
+Home Address:
+1847 Riverside Drive, Apartment 4B
+Memphis, TN 38103
+
+Contact Information:
+Primary Phone: (901) 555-7823
+Emergency Contact: Mary Public (Wife) - (901) 555-7824
+Email: joe.public@emailprovider.com
+
+Insurance Information:
+Provider: BlueCross BlueShield of Tennessee
+Policy Number: BCB-TN-9928471
+Group Number: CORP-4421
+
+================================================================================
+CLINICAL SUMMARY
+================================================================================
+
+Date of Examination: January 20, 2026
+Attending Physician: Dr. Sarah Mitchell, MD
+Department: Neurology and Psychiatry
+
+CHIEF COMPLAINT:
+Patient presents with persistent belief that he is deceased or does not exist, accompanied by complete absence of pain sensation.
+
+DIAGNOSIS:
+
+Primary Diagnosis: Cotard's Syndrome (Cotard's Delusion)
+ICD-10 Code: F22
+
+Cotard's syndrome, also known as walking corpse syndrome, is a rare neuropsychiatric disorder characterized by nihilistic delusions. The patient firmly believes that he is dead, does not exist, or has lost his blood and internal organs. This condition typically presents alongside severe depression and psychotic symptoms.
+
+Secondary Diagnosis: Congenital Analgesia (Congenital Insensitivity to Pain)
+ICD-10 Code: G90.8
+
+The patient exhibits congenital analgesia, a rare inherited condition resulting in the inability to perceive physical pain. This condition has been present since birth and poses significant risks for undetected injuries. The patient reports a history of unnoticed fractures and burns during childhood.
+
+CLINICAL OBSERVATIONS:
+
+- Patient appears oriented to time and place but demonstrates fixed delusional beliefs regarding his own existence
+- Flat affect with minimal emotional responsiveness
+- No pain response during routine examination procedures (blood draw, reflex testing)
+- Vital signs within normal limits: BP 118/76, HR 72 bpm, Temp 98.4°F
+- Neurological examination otherwise unremarkable
+
+TREATMENT PLAN:
+
+1. Initiate electroconvulsive therapy (ECT) evaluation for treatment-resistant Cotard's syndrome
+2. Prescribe Olanzapine 10mg daily for psychotic symptoms
+3. Prescribe Sertraline 100mg daily for underlying depression
+4. Refer to pain management specialist for monitoring of congenital analgesia
+5. Weekly psychiatric follow-up appointments
+6. Educate patient and family on injury prevention strategies due to pain insensitivity
+
+FOLLOW-UP:
+Patient scheduled to return on February 3, 2026 for treatment response evaluation.
+
+================================================================================
+PHYSICIAN SIGNATURE
+================================================================================
+
+Electronically signed by:
+Dr. Sarah Mitchell, MD
+License Number: TN-MD-48291
+Date: January 20, 2026
+
+This document contains Protected Health Information (PHI) and is confidential.
+Unauthorized disclosure is prohibited under HIPAA regulations.

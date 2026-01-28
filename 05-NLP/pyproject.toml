@@ -1,0 +1,13 @@
+[project]
+name = "05-nlp"
+version = "0.1.0"
+description = "Jupyter notebooks illustrating Azure Foundry Language Tools"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "jupyter>=1.1.1",
+    "pandas>=3.0.0",
+    "requests>=2.32.5",
+    "rich>=14.3.0",
+    "ruff>=0.14.14",
+]
