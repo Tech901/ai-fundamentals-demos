@@ -8,7 +8,7 @@ The goal of this project is to provide hands-on examples of how to use Azure Lan
 
 ## 🎯 Capabilities Demonstrated
 
-This project covers **5 key Azure Language capabilities**:
+This project covers **6 key Azure AI capabilities**:
 
 ### 1. **Sentiment Analysis** (`01-AzureLanguage-SentimentAnalysis.ipynb`)
 Analyze the sentiment of text documents to determine if they express positive, negative, neutral, or mixed opinions.
@@ -45,6 +45,13 @@ Detect and redact Personally Identifiable Information (PII) from documents for d
 - **API Used**: [Analyze Text - PII Entity Recognition](https://learn.microsoft.com/en-us/rest/api/language/analyze-text/analyze-text/analyze-text)
 - **Use Cases**: HIPAA compliance, data protection, privacy enforcement
 
+### 6. **Content Understanding** (`06-ContentUnderstanding.ipynb`)
+Analyze documents and images using Azure AI Content Understanding service with prebuilt analyzers.
+
+- **Sample Data**: PDF with highlights/annotations, images of produce and elephants
+- **API Used**: [Content Understanding REST API](https://learn.microsoft.com/en-us/rest/api/contentunderstanding/operation-groups?view=rest-contentunderstanding-2025-11-01)
+- **Use Cases**: Document layout analysis, annotation extraction, image classification, object detection
+
 ## 📁 Project Structure
 
 ```
@@ -72,9 +79,12 @@ Detect and redact Personally Identifiable Information (PII) from documents for d
 ├── 04-KeyPhraseExtraction-data/
 │   └── exercise_nutrition_essay.txt
 │
-└── 05-AzureLanguage-PIIRedaction.ipynb
-    └── 05-PIIRedaction-data/
-        └── medical_report.txt
+├── 05-AzureLanguage-PIIRedaction.ipynb
+├── 05-PIIRedaction-data/
+│   └── medical_report.txt
+│
+└── 06-ContentUnderstanding.ipynb
+    └── (uses external URLs for sample data)
 ```
 
 ## 🚀 Getting Started
@@ -90,7 +100,13 @@ Detect and redact Personally Identifiable Information (PII) from documents for d
 Set the following environment variables before running the notebooks:
 
 ```bash
+# For Azure Language notebooks (01-05)
 export FOUNDRY_ENDPOINT="https://<your-resource>.api.cognitiveservices.azure.com"
+export FOUNDRY_API_KEY="<your-api-key>"
+export FOUNDRY_REGION="<your-region>"  # e.g., "eastus"
+
+# For Content Understanding notebook (06)
+export FOUNDRY_CONTENT_UNDERSTANDING_ENDPOINT="https://<your-resource>.cognitiveservices.azure.com"
 export FOUNDRY_API_KEY="<your-api-key>"
 export FOUNDRY_REGION="<your-region>"  # e.g., "eastus"
 ```
@@ -179,7 +195,7 @@ After working through these notebooks, you will understand:
 
 ## ✨ Features
 
-- ✅ 5 different NLP capabilities
+- ✅ 6 different NLP and AI capabilities
 - ✅ Sample datasets for each capability
 - ✅ Complete API integration examples
 - ✅ Rich, formatted output
@@ -194,4 +210,4 @@ This project is part of the Tech901 AI Fundamentals Demos series.
 
 ---
 
-**Last Updated**: January 24, 2026
+**Last Updated**: January 28, 2026
