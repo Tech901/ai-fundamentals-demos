@@ -15,14 +15,16 @@ Usage:
     python inference_demo.py --model-path ./downloads/JOB_NAME/outputs/model.pkl
 """
 
+
 import argparse
 from pathlib import Path
+from typing import Any, Optional, Union
 
 import joblib
 import pandas as pd
 
 
-def create_sample_data():
+def create_sample_data() -> pd.DataFrame:
     """Create sample car data for prediction.
     
     Note: This creates data matching the full AutoML model signature.
@@ -46,7 +48,7 @@ def create_sample_data():
     })
 
 
-def load_model(model_path: str):
+def load_model(model_path: str) -> Any:
     """Load a trained model from disk (supports joblib, pickle, and MLflow)."""
     path = Path(model_path)
     if not path.exists():
@@ -83,7 +85,7 @@ def load_model(model_path: str):
     raise ValueError(f"Unsupported model format: {path}. Expected .joblib, .pkl, or MLflow directory")
 
 
-def run_inference(model, data: pd.DataFrame):
+def run_inference(model: Any, data: pd.DataFrame) -> Union[pd.Series, pd.DataFrame, Any]:
     """Run predictions on the provided data."""
     print("\n" + "="*60)
     print("INPUT DATA:")
@@ -112,7 +114,7 @@ def run_inference(model, data: pd.DataFrame):
     return predictions
 
 
-def main():
+def main() -> None:
     parser = argparse.ArgumentParser(description="Run inference with trained AzureML models")
     parser.add_argument(
         "--model-path",
